@@ -1,12 +1,12 @@
 # Code de justice militaire (nouveau)  
-Version Consolidée au 2011-06-01
+Version Consolidée au 2011-12-15
 ## Contenu: 
   - [Partie législative (art. L1 à L424-3)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L4)](#2)
     - [LIVRE Ier : ORGANISATION ET COMPÉTENCE DE LA JUSTICE MILITAIRE (art. L111-1 à L123-5)](#3)
       - [TITRE Ier : ORGANISATION (art. L111-1 à L112-36)](#4)
         - [Chapitre Ier : Du tribunal aux armées en temps de paix (art. L111-1 à L111-18)](#5)
-          - [Section 1 : Etablissement. (art. L111-1 à L111-2)](#6)
+          - [Section 1 : Etablissement. (art. L111-2)](#6)
           - [Section 2 : Composition. (art. L111-3 à L111-7)](#7)
           - [Section 3 : De la chambre de l'instruction. (art. L111-8 à L111-9)](#8)
           - [Section 4 : Personnels. (art. L111-10 à L111-14)](#9)
@@ -320,11 +320,19 @@ _Codifié par_:
 
 #### Chapitre Ier : Du tribunal aux armées en temps de paix<a id=5></a>
 
-##### Section 1 : Etablissement.<a id=6></a>
-
 ###### Article L111-1
 
-Il est établi un tribunal aux armées dont le siège est fixé par décret en Conseil d'Etat.
+Les juridictions de droit commun spécialisées en matière militaire mentionnées à l'article 697 du code de procédure pénale
+sont compétentes pour le jugement des crimes et des délits commis en temps de paix sur le territoire de la République par des
+militaires dans l'exercice du service. 
+
+Conformément à l'article 697-4 du même code, les juridictions mentionnées au premier alinéa du présent article ayant leur
+siège à Paris sont également compétentes pour le jugement des crimes, délits et contraventions commis en temps de paix hors
+du territoire de la République par les membres des forces armées françaises ou à l'encontre de celles-ci, conformément au
+chapitre Ier du titre II du livre Ier du présent code. 
+
+Les règles relatives à l'institution, à l'organisation et au fonctionnement des juridictions mentionnées au présent article
+sont définies par le code de procédure pénale.
 
 **Nota:**
 
@@ -335,19 +343,27 @@ militaire. La partie réglementaire a été publiée par le décret n° 2007-759
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Ancien code de justice militaire art. 3
-
 _Codifié par_:
 
-  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
+  - Ordonnance n°2006-637 du 1 juin 2006
+  - Loi n°2007-289 du 5 mars 2007 - art. 1
+
+_Modifié par_:
+
+  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
+
+_Cite_:
+
+  - Code de procédure pénale - art. 697 (V)
+  - Code de procédure pénale - art. 697-4 (V)
+  - Code de justice militaire. -  Chapitre Ier : En temps de paix et hors du terr... (V)
 
 _Cité par_:
 
   - Code de justice militaire. - art. L2 (VD)
 
+
+##### Section 1 : Etablissement.<a id=6></a>
 
 ###### Article L111-2
 
@@ -16785,71 +16801,12 @@ _Codifié par_:
 
 ###### Article L311-7
 
-Toute condamnation, même si elle n'a pas entraîné la destitution prononcée par quelque juridiction que ce soit, contre un
-officier, un sous-officier de carrière ou un sous-officier servant sous contrat, entraîne de plein droit la perte du grade,
-si elle est prononcée pour crime. 
+Toute condamnation à une peine d'interdiction des droits civiques ou d'interdiction d'exercer une fonction publique,
+prononcée par quelque juridiction que ce soit contre tout militaire, entraîne perte du grade. 
 
-Toute condamnation à une peine égale ou supérieure à trois mois d'emprisonnement, avec ou sans sursis, prononcée contre un
-officier, un sous-officier de carrière ou un sous-officier servant sous contrat emporte la perte du grade, si elle est
-prononcée pour l'un des délits suivants : 
-
-1° Délits de vol, extorsion, escroquerie, abus de confiance et recel réprimés par le livre troisième du code pénal ; 
-
-2° Délits prévus aux articles 413-3,432-11,433-1 et 433-2 du code pénal ; 
-
-3° Délits de banqueroute et délits assimilés à la banqueroute. 
-
-Il en est de même si la peine prononcée, même inférieure à trois mois d'emprisonnement, s'accompagne soit d'une interdiction
-de séjour, soit d'une interdiction de tout ou partie des droits civiques, civils et de famille, ou si le jugement déclare que
-le condamné est incapable d'exercer aucune fonction publique.
-
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
-
-Dans sa décision n° 2011-218 QPC du 3 février 2012 (NOR : CSCX1203379S), le Conseil constitutionnel a déclaré contraire à la
-Constitution l'article L. 311-7 du code de justice militaire dans sa rédaction antérieure à la loi n° 2011-1862 du 13
-décembre 2011. La déclaration d'inconstitutionnalité prend effet à compter de la publication de la présente décision.
+Lorsque ce même militaire est commissionné, elle entraîne la révocation.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ancien code de justice militaire art. 389
-
-_Codifié par_:
-
-  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
-
-_Cite_:
-
-  - Code pénal - art. 413-1 (V)
-  - Code pénal - art. 432-11 (V)
-  - Code pénal - art. 433-1 (V)
-
-
-###### Article L311-8
-
-Toute condamnation de même nature ou degré prononcée dans les conditions prévues à l'article L. 311-7 entraîne de plein droit
-la perte du grade pour tous les militaires autres que ceux mentionnés au même article et la révocation, s'ils sont
-commissionnés.
-
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ancien code de justice militaire art. 390
 
 _Codifié par_:
 
@@ -16858,15 +16815,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2007-289 du 5 mars 2007 - art. 2
-
-_Abrogé par_:
-
   - Loi n°2011-1862 du 13 décembre 2011 - art. 35
-
-_Cite_:
-
-  - Code de justice militaire
 
 
 ###### Article L311-9
@@ -16914,31 +16863,6 @@ _Codifié par_:
 
   - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
   - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
-
-
-###### Article L311-11
-
-Lorsque la peine d'amende est prononcée pour une infraction de droit commun contre des militaires ou assimilés n'ayant pas
-rang d'officier, le tribunal peut décider, par une disposition spéciale, de substituer à cette peine un emprisonnement de six
-mois au plus pour un délit, le condamné conservant la faculté de payer l'amende au lieu de subir l'emprisonnement.     
-
-La peine ainsi infligée conserve le caractère d'une amende, mais elle ne se confond pas avec les autres peines prononcées.
-Elle est subie indépendamment de celles-ci.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance n°2006-637 du 1 juin 2006
-  - Loi n°2007-289 du 5 mars 2007 - art. 1
-
-_Modifié par_:
-
-  - Loi n°2011-525 du 17 mai 2011 - art. 184
-
-_Abrogé par_:
-
-  - Loi n°2011-1862 du 13 décembre 2011 - art. 35
 
 
 ###### Article L311-12
@@ -17082,42 +17006,42 @@ _Cité par_:
 
 ###### Article L321-2
 
-Est considéré comme déserteur à l'intérieur en temps de paix :
+Est déclaré déserteur à l'intérieur, en temps de paix, tout militaire dont la formation de rattachement est située sur le
+territoire de la République et qui :
 
-1° Six jours après celui de l'absence constatée, tout militaire qui s'absente sans autorisation de son corps ou détachement,
-de sa base ou formation, de son bâtiment ou d'un hôpital militaire ou civil, où il était en traitement, ou qui s'évade d'un
-établissement pénitentiaire, où il était détenu provisoirement ;
+1° S'évade, s'absente sans autorisation, refuse de rejoindre sa formation de rattachement ou ne s'y présente pas à l'issue
+d'une mission, d'une permission ou d'un congé ;
 
-2° Tout militaire voyageant isolément, dont la mission, le congé ou la permission est expiré et qui, dans les quinze jours
-suivant celui fixé pour son arrivée ou son retour, ne s'est pas présenté à un corps ou détachement, à sa base ou formation ou
-à son bâtiment ;
+2° Mis en route pour rejoindre une autre formation de rattachement située hors du territoire national, ne s'y présente pas ;
 
-3° Tout militaire qui, sur le territoire de la République, se trouve absent sans permission au moment du départ pour une
-destination hors de ce territoire, du bâtiment ou de l'aéronef militaire auquel il appartient ou à bord duquel il est
-embarqué, même si le militaire s'est présenté à l'autorité avant l'expiration des délais fixés aux 1° et 2°.
+3° Se trouve absent sans autorisation au moment du départ pour une destination hors du territoire national du bâtiment ou de
+l'aéronef auquel il appartient ou à bord duquel il est embarqué.
 
-Toutefois, dans les cas prévus aux 1° et 2°, le militaire qui n'a pas trois mois de service ne peut être considéré comme
-déserteur qu'après un mois d'absence.
+Constituent une formation de rattachement : un corps, un détachement, une base, une formation, un bâtiment ou aéronef
+militaire, un établissement civil ou militaire de santé en cas d'hospitalisation, un établissement pénitentiaire en cas de
+détention.
+
+Est compétente pour connaître des faits de désertion à l'intérieur la juridiction dans le ressort de laquelle est située la
+formation de rattachement de départ.
+
+Dans les cas prévus au 1°, le militaire est déclaré déserteur à l'expiration d'un délai de six jours à compter du lendemain
+du jour où l'absence sans autorisation est constatée ou du lendemain du terme prévu de la mission, de la permission ou du
+congé.
+
+Aucun délai de grâce ne bénéficie au militaire se trouvant dans les circonstances des 2° et 3°.
 
 En temps de guerre, tous les délais mentionnés au présent article sont réduits des deux tiers.
 
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
-
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ancien code de justice militaire art. 398
 
 _Codifié par_:
 
-  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
+  - Ordonnance n°2006-637 du 1 juin 2006
+  - Loi n°2007-289 du 5 mars 2007 - art. 1
+
+_Modifié par_:
+
+  - Loi n°2011-1862 du 13 décembre 2011 - art. 36
 
 _Cité par_:
 
@@ -17126,31 +17050,26 @@ _Cité par_:
 
 ###### Article L321-3
 
-Le fait pour tout militaire d'être coupable de désertion à l'intérieur en temps de paix est puni de trois ans
-d'emprisonnement.
+Le fait pour tout militaire de déserter à l'intérieur, en temps de paix, est puni de trois ans d'emprisonnement.
+
+Le fait de déserter à l'intérieur et de franchir les limites du territoire de la République ou de rester hors de ces limites
+est puni de cinq ans d'emprisonnement.
 
 Si la désertion a eu lieu en temps de guerre ou sur un territoire sur lequel l'état de siège ou l'état d'urgence a été
 proclamé, la peine peut être portée à dix ans d'emprisonnement.
 
-Dans tous les cas, si le coupable est officier, la destitution peut, en outre, être prononcée.
-
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
+Dans tous les cas, si le coupable est officier, la perte du grade peut, en outre, être prononcée.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Ancien code de justice militaire art. 399
-
 _Codifié par_:
 
-  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
+  - Ordonnance n°2006-637 du 1 juin 2006
+  - Loi n°2007-289 du 5 mars 2007 - art. 1
+
+_Modifié par_:
+
+  - Loi n°2011-1862 du 13 décembre 2011 - art. 36
 
 
 ###### Article L321-4
@@ -17159,55 +17078,66 @@ Est réputée désertion avec complot toute désertion effectuée de concert par
 
 Le fait d'être coupable de désertion avec complot à l'intérieur est puni :
 
-1° En temps de paix, d'un emprisonnement de cinq ans. Si le coupable est officier, la destitution peut, en outre, être
+1° En temps de paix, d'un emprisonnement de cinq ans. Si le coupable est officier, la perte du grade  peut, en outre, être
 prononcée ;
 
 2° En temps de guerre, de dix ans d'emprisonnement.
 
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
-
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ancien code de justice militaire art. 400
 
 _Codifié par_:
 
-  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
+  - Ordonnance n°2006-637 du 1 juin 2006
+  - Loi n°2007-289 du 5 mars 2007 - art. 1
+
+_Modifié par_:
+
+  - Loi n°2011-1862 du 13 décembre 2011 - art. 36
 
 
 ##### Sous-section 2 : De la désertion à l'étranger.<a id=105></a>
 
 ###### Article L321-5
 
-Est déclaré déserteur à l'étranger en temps de paix, trois jours après celui de l'absence constatée, tout militaire qui
-franchit sans autorisation les limites du territoire de la République ou qui, hors de ce territoire, abandonne le corps ou
-détachement, la base ou formation à laquelle il appartient, ou le bâtiment ou l'aéronef à bord duquel il est embarqué.
+Est déclaré déserteur à l'étranger, en temps de paix, tout militaire qui, affecté dans une formation de rattachement située
+hors du territoire de la République :
 
-**Nota:**
+1° S'évade, s'absente sans autorisation, refuse de rejoindre sa formation de rattachement ou ne s'y présente pas à l'issue
+d'une mission, d'une permission ou d'un congé ;
 
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
+2° Mis en route pour rejoindre une autre formation de rattachement située sur tout territoire, y compris le territoire
+national, ne s'y présente pas ;
+
+3° Se trouve absent sans autorisation au moment du départ du bâtiment ou de l'aéronef auquel il appartient ou à bord duquel
+il est embarqué.
+
+Constituent une formation de rattachement : un corps, un détachement, une base, une formation, un bâtiment ou aéronef
+militaire, un établissement civil ou militaire de santé en cas d'hospitalisation, un établissement pénitentiaire en cas de
+détention.
+
+Est compétente pour connaître des faits de désertion à l'étranger la juridiction prévue à l'article 697-4 du code de
+procédure pénale.
+
+Dans les cas prévus au 1°, le militaire est déclaré déserteur à l'expiration d'un délai de trois jours à compter du lendemain
+du jour où l'absence sans autorisation est constatée ou du lendemain du terme prévu de la mission, de la permission ou du
+congé. Ce délai est réduit à un jour en temps de guerre.
+
+Aucun délai de grâce ne bénéficie au militaire se trouvant dans les circonstances des 2° et 3°.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Ancien code de justice militaire art. 401
-
 _Codifié par_:
 
-  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
+  - Ordonnance n°2006-637 du 1 juin 2006
+  - Loi n°2007-289 du 5 mars 2007 - art. 1
+
+_Modifié par_:
+
+  - Loi n°2011-1862 du 13 décembre 2011 - art. 36
+
+_Cite_:
+
+  - Code de procédure pénale - art. 697-4
 
 _Cité par_:
 
@@ -17216,154 +17146,44 @@ _Cité par_:
 
 ###### Article L321-6
 
-Est déclaré déserteur à l'étranger en temps de paix tout militaire qui, hors du territoire de la République, à l'expiration
-du délai de six jours après celui fixé pour son retour de permission, de congé, de mission ou de déplacement, ne se présente
-pas au corps ou détachement, à la base ou formation à laquelle il appartient, ou au bâtiment ou à l'aéronef à bord duquel il
-est embarqué.
+Le fait pour tout militaire de déserter à l'étranger en temps de paix est puni de cinq ans d'emprisonnement. S'il est
+officier, il encourt une peine de dix ans d'emprisonnement.
 
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
+Toutefois, lorsque le militaire déserte à l'étranger et se maintient ou revient sur le territoire de la République, la peine
+d'emprisonnement encourue est réduite à trois ans.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ancien code de justice militaire art. 402
-
-_Codifié par_:
-
-  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
-
-
-###### Article L321-7
-
-Est déclaré déserteur à l'étranger tout militaire qui, hors du territoire de la République, se trouve absent sans permission,
-au moment du départ du bâtiment ou de l'aéronef militaire à bord duquel il est embarqué, même s'il s'est présenté à
-l'autorité avant l'expiration du délai fixé à l'article L. 321-5.
-
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ancien code de justice militaire art. 403
-
-_Codifié par_:
-
-  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
-
-_Cite_:
-
-  - Code de justice militaire L321-5
-
-
-###### Article L321-8
-
-En temps de paix, dans les cas mentionnés aux articles L. 321-5 et L. 321-6, le militaire qui n'a pas trois mois de service
-ne peut être considéré comme déserteur qu'après quinze jours d'absence.
-
-En temps de guerre, les délais prévus aux articles L. 321-5 et L. 321-6 ainsi qu'au premier alinéa sont réduits
-respectivement à un jour, deux jours et cinq jours.
-
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ancien code de justice militaire art. 404
-
-_Codifié par_:
-
-  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
-
-_Abrogé par_:
-
-  - Loi n°2011-1862 du 13 décembre 2011 - art. 36
-
-_Cite_:
-
-  - Code de justice militaire
-
-
-###### Article L321-9
-
-Le fait pour tout militaire d'être coupable de désertion à l'étranger en temps de paix est puni de cinq ans d'emprisonnement.
-
-Si le coupable est officier, il est puni de la peine de dix ans d'emprisonnement.
-
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ancien code de justice militaire art. 405
-
-_Codifié par_:
-
-  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
-
-_Abrogé par_:
-
-  - Loi n°2011-1862 du 13 décembre 2011 - art. 36
-
-
-###### Article L321-10
-
-La peine d'emprisonnement encourue peut être portée à dix ans contre tout militaire qui a déserté à l'étranger :
-
-1° Si le coupable a emporté une arme ou du matériel de l'Etat ;
-
-2° Ou s'il a déserté étant de service ;
-
-3° Ou s'il a déserté avec complot.
-
-Si le coupable est officier, il est puni de dix ans d'emprisonnement.
-
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ancien code de justice militaire art. 406
 
 _Codifié par_:
 
   - Ordonnance n°2006-637 du 1 juin 2006
   - Loi n°2007-289 du 5 mars 2007 - art. 1
 
-_Abrogé par_:
+_Modifié par_:
+
+  - Loi n°2011-1862 du 13 décembre 2011 - art. 36
+
+
+###### Article L321-7
+
+La peine d'emprisonnement encourue peut être portée à dix ans contre tout militaire qui a déserté à l'étranger :
+
+1° En emportant une arme ou du matériel de l'Etat ;
+
+2° En étant de service ;
+
+3° Avec complot.
+
+Est réputée désertion avec complot toute désertion à l'étranger effectuée de concert par plus de deux individus.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2006-637 du 1 juin 2006
+  - Loi n°2007-289 du 5 mars 2007 - art. 1
+
+_Modifié par_:
 
   - Loi n°2011-1862 du 13 décembre 2011 - art. 36
 
