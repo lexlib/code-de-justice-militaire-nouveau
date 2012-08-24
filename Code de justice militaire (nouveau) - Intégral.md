@@ -1,193 +1,192 @@
 # Code de justice militaire (nouveau)  
-Version Consolidée au 2012-01-01
+Version Consolidée au 2012-08-25
 ## Contenu: 
   - [Partie législative (art. L1 à L424-3)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L4)](#2)
-    - [LIVRE Ier : ORGANISATION ET COMPÉTENCE DE LA JUSTICE MILITAIRE (art.  à L123-5)](#3)
-      - [TITRE Ier : ORGANISATION (art.  à L112-36)](#4)
-        - [Chapitre Ier : Du tribunal aux armées en temps de paix (art.  à L4)](#5)
-        - [Chapitre Ier : Des juridictions compétentes en matière militaire en temps de paix (art. L111-1)](#6)
-        - [Chapitre II : Des juridictions des forces armées en temps de guerre (art. L112-1 à L112-36)](#7)
-          - [Section 1 : Des tribunaux territoriaux des forces armées (art. L112-1 à L112-26)](#8)
-            - [Sous-section 1 : Etablissement. (art. L112-1 à L112-4)](#9)
-            - [Sous-section 2 : Composition. (art. L112-5 à L112-19)](#10)
-            - [Sous-section 3 : Chambre de l'instruction. (art. L112-20 à L112-21)](#11)
-            - [Sous-section 4 : Fonctionnement et service. (art. L112-22 à L112-26)](#12)
-          - [Section 2 : Des tribunaux militaires aux armées (art. L112-27 à L112-36)](#13)
-            - [Sous-section 1 : Etablissement. (art. L112-27 à L112-29)](#14)
-            - [Sous-section 2 : Composition. (art. L112-30 à L112-32)](#15)
-            - [Sous-section 3 : Chambre de l'instruction. (art. L112-33 à L112-34)](#16)
-            - [Sous-section 4 : Fonctionnement et service. (art. L112-35 à L112-36)](#17)
-      - [TITRE II : COMPÉTENCE (art. L121-1 à L123-5)](#18)
-        - [Chapitre Ier : En temps de paix et hors du territoire de la République. (art. L121-1 à L121-8)](#19)
-        - [Chapitre II : En temps de guerre. (art. L122-1 à L122-5)](#20)
-        - [Chapitre III : Règles communes. (art. L123-1 à L123-5)](#21)
-    - [LIVRE II : PROCÉDURE PÉNALE MILITAIRE DISPOSITIONS PRÉLIMINAIRES (art. L211-1 à L271-2)](#22)
-      - [TITRE Ier : DE L'EXERCICE DE L'ACTION PUBLIQUE ET DE L'INSTRUCTION (art. L211-1 à L212-191)](#23)
-        - [Chapitre Ier : En temps de paix et hors du territoire de la République (art. L211-1 à L211-25)](#24)
-          - [Section 1 : De la police judiciaire et des enquêtes. (art. L211-1 à L211-7)](#25)
-          - [Section 2 : De la garde à vue. (art. L211-8 à L211-10)](#26)
-          - [Section 3 : De l'action civile et de l'action publique. (art. L211-11 à L211-14)](#27)
-          - [Section 4 : Des juridictions d'instruction (art. L211-15 à L211-24)](#28)
-            - [Sous-section 1 : De l'instruction préparatoire. (art. L211-15 à L211-19)](#29)
-            - [Sous-section 2 : De la détention provisoire et de la liberté. (art. L211-20 à L211-22)](#30)
-            - [Sous-section 3 : De la chambre de l'instruction. (art. L211-23)](#31)
-            - [Sous-section 4 : De la réouverture de l'information sur charges nouvelles. (art. L211-24)](#32)
-          - [Section 5 : De la défense (art. L211-25)](#33)
-        - [Chapitre II : En temps de guerre (art. L212-1 à L212-191)](#34)
-          - [Section 1 : Des autorités investies des pouvoirs judiciaires. (art. L212-1)](#35)
-          - [Section 2 : De la police judiciaire (art. L212-2 à L212-6)](#36)
-            - [Sous-section 1 : De la police judiciaire militaire. (art. L212-2 à L212-4)](#37)
-            - [Sous-section 2 : Des officiers de police judiciaire civile. (art. L212-5 à L212-6)](#38)
-          - [Section 3 : Des enquêtes (art. L212-7 à L212-26)](#39)
-            - [Sous-section 1 : Des crimes et délits flagrants. (art. L212-7 à L212-22)](#40)
-            - [Sous-section 2 : De l'enquête préliminaire. (art. L212-23 à L212-25)](#41)
-            - [Sous-section 3 : De la suite à donner aux procédures d'enquête. (art. L212-26)](#42)
-          - [Section 4 : De l'arrestation, de la garde à vue et de la mise à disposition (art. L212-27 à L212-33)](#43)
-            - [Sous-section 1 : De l'arrestation, de la garde à vue et de la mise à disposition à l'égard des militaires. (art. L212-27 à L212-32)](#44)
-            - [Sous-section 2 : De la garde à vue à l'égard des personnes étrangères aux armées. (art. L212-33)](#45)
-          - [Section 5 : De l'action civile et de l'action publique. (art. L212-34 à L212-45)](#46)
-          - [Section 6 : Des juridictions d'instruction (art. L212-46 à L212-191)](#47)
-            - [Sous-section 1 : De l'instruction préparatoire. (art. L212-46 à L212-145)](#48)
-              - [Paragraphe 1 : Des commissions rogatoires, des transports, des perquisitions et des saisies. (art. L212-54 à L212-75)](#49)
-              - [Paragraphe 2 : Des auditions et expertises. (art. L212-76 à L212-129)](#50)
-              - [Paragraphe 3 : Des nullités de l'information et des ordonnances de règlement. (art. L212-130 à L212-140)](#51)
-              - [Paragraphe 4 : De l'appel des ordonnances du juge d'instruction. (art. L212-141 à L212-145)](#52)
-            - [Sous-section 2 : Du contrôle judiciaire, de la détention provisoire et de la liberté (art. L212-146 à L212-176)](#53)
-              - [Paragraphe 1 : Du contrôle judiciaire. (art. L212-146 à L212-154)](#54)
-              - [Paragraphe 2 : De la détention provisoire et de la liberté. (art. L212-155 à L212-176)](#55)
-            - [Sous-section 3 : De la chambre de l'instruction. (art. L212-177 à L212-191)](#56)
-      - [TITRE II : PROCÉDURE DEVANT LES JURIDICTIONS DE JUGEMENT (art. L221-3 à L222-80)](#57)
-        - [Chapitre Ier : En temps de paix et hors du territoire de la République. (art. L221-3)](#58)
-        - [Chapitre II : En temps de guerre. (art. L222-1 à L222-80)](#59)
-      - [TITRE III : DES VOIES DE RECOURS EXTRAORDINAIRES (art. L231-2 à L233-4)](#60)
-        - [Chapitre Ier : Du pourvoi en cassation (art. L231-2 à L231-10)](#61)
-        - [Chapitre II : Du pourvoi dans l'intérêt de la loi. (art. L232-1)](#62)
-        - [Chapitre III : Des demandes en révision (art. L233-2 à L233-4)](#63)
-      - [TITRE IV : DES CITATIONS ET NOTIFICATIONS (art. L241-1 à L241-11)](#64)
-        - [Chapitre unique. (art. L241-1 à L241-11)](#65)
-      - [TITRE V : DES PROCÉDURES PARTICULIÈRES DU TEMPS DE GUERRE (art. L251-1 à L255-23)](#66)
-        - [Chapitre Ier : Des jugements par défaut ou itératif défaut et de l'appel en temps de guerre (art. L251-1 à L251-28)](#67)
-          - [Section 1 : Du jugement par défaut des crimes et des délits en temps de guerre. (art. L251-1 à L251-18)](#68)
-          - [Section 2 : Du jugement par défaut des contraventions en temps de guerre. (art. L251-19 à L251-21)](#69)
-          - [Section 3 : De l'itératif défaut en temps de guerre. (art. L251-22)](#70)
-          - [Section 4 : De l'appel des jugements rendus en temps de guerre. (art. L251-23 à L251-28)](#71)
-        - [Chapitre II : Du séquestre et de la confiscation des biens en temps de guerre. (art. L252-1 à L252-12)](#72)
-        - [Chapitre III : De la reconnaissance d'identité d'un condamné en temps de guerre. (art. L253-1)](#73)
-        - [Chapitre IV : Des règlements de juges et des renvois d'un tribunal à un autre tribunal en temps de guerre. (art. L254-1 à L254-9)](#74)
-        - [Chapitre V : Des crimes et délits contre les intérêts fondamentaux de la nation en temps de guerre. (art. L255-1 à L255-23)](#75)
-      - [TITRE VI : DES PROCÉDURES D'EXÉCUTION (art. L261-1 à L269-4)](#76)
-        - [Chapitre Ier : De l'exécution des jugements. (art. L261-1 à L261-12)](#77)
-        - [Chapitre II : De l'exécution des peines. (art. L262-1 à L262-2)](#78)
-        - [Chapitre III : De la suspension de l'exécution des jugements. (art. L263-1 à L263-6)](#79)
-        - [Chapitre IV : De la libération conditionnelle. (art. L264-1 à L264-5)](#80)
-        - [Chapitre V : Du sursis et de la récidive. (art. L265-1 à L265-3)](#81)
-        - [Chapitre VI : De la réhabilitation et des demandes présentées en vue d'être relevé des interdictions, déchéances ou incapacités. (art. L266-1 à L266-4)](#82)
-        - [Chapitre VII : De la prescription des peines. (art. L267-1 à L267-2)](#83)
-        - [Chapitre VIII : Du casier judiciaire. (art. L268-1 à L268-2)](#84)
-        - [Chapitre IX : Des frais de justice et de la contrainte judiciaire. (art. L269-1 à L269-4)](#85)
-      - [TITRE VII : DISPOSITIONS DIVERSES (art. L271-1 à L271-2)](#86)
-        - [Chapitre unique. (art. L271-1 à L271-2)](#87)
-    - [LIVRE III : DES PEINES APPLICABLES PAR LES JURIDICTIONS DES FORCES ARMÉES ET DES INFRACTIONS D'ORDRE MILITAIRE (art. L311-1 à L333-7)](#88)
-      - [TITRE Ier : DES PEINES APPLICABLES PAR LES JURIDICTIONS DES FORCES ARMÉES (art. L311-1 à L311-14)](#89)
-        - [Chapitre unique. (art. L311-1 à L311-14)](#90)
-      - [TITRE II : DES INFRACTIONS D'ORDRE MILITAIRE (art. L321-1 à L324-11)](#91)
-        - [Chapitre Ier : Des infractions tendant à soustraire leur auteur à ses obligations militaires (art. L321-1 à L321-24)](#92)
-          - [Section 1 : De l'insoumission. (art. L321-1)](#93)
-          - [Section 2 : De la désertion (art. L321-2 à L321-17)](#94)
-            - [Sous-section 1 : De la désertion à l'intérieur. (art. L321-2 à L321-4)](#95)
-            - [Sous-section 2 : De la désertion à l'étranger. (art. L321-5 à L321-11)](#96)
-            - [Sous-section 3 : De la désertion à bande armée. (art. L321-12)](#97)
-            - [Sous-section 4 : De la désertion à l'ennemi ou en présence de l'ennemi. (art. L321-13 à L321-16)](#98)
-            - [Sous-section 5 : Dispositions communes aux diverses désertions. (art. L321-17)](#99)
-          - [Section 3 : De la provocation à la désertion et du recel de déserteur (art. L321-18 à L321-21)](#100)
-            - [Sous-section 1 : De la provocation à la désertion. (art. L321-18)](#101)
-            - [Sous-section 2 : Du recel de déserteur. (art. L321-19)](#102)
-            - [Sous-section 3 : Dispositions communes. (art. L321-20 à L321-21)](#103)
-          - [Section 4 : De la mutilation volontaire. (art. L321-22 à L321-24)](#104)
-        - [Chapitre II : Des infractions contre l'honneur ou le devoir (art. L322-1 à L322-18)](#105)
-          - [Section 1 : De la capitulation. (art. L322-1 à L322-2)](#106)
-          - [Section 2 : Du complot militaire. (art. L322-3)](#107)
-          - [Section 3 : Des pillages. (art. L322-5)](#108)
-          - [Section 4 : Des destructions. (art. L322-6 à L322-10)](#109)
-          - [Section 5 : Du faux, de la falsification, des détournements. (art. L322-11 à L322-14)](#110)
-          - [Section 6 : De l'usurpation d'uniformes, de décorations, de signes distinctifs et emblèmes. (art. L322-15 à L322-16)](#111)
-          - [Section 7 : De l'outrage au drapeau ou à l'armée. (art. L322-17)](#112)
-          - [Section 8 : De l'incitation à commettre des actes contraires au devoir ou à la discipline. (art. L322-18)](#113)
-        - [Chapitre III : Des infractions contre la discipline (art. L323-1 à L323-23)](#114)
-          - [Section 1 : De l'insubordination (art. L323-1 à L323-18)](#115)
-            - [Sous-section 1 : De la révolte militaire. (art. L323-1 à L323-3)](#116)
-            - [Sous-section 2 : De la rébellion. (art. L323-4 à L323-5)](#117)
-            - [Sous-section 3 : Du refus d'obéissance. (art. L323-6 à L323-8)](#118)
-            - [Sous-section 4 : Des voies de fait et outrages envers des supérieurs. (art. L323-9 à L323-14)](#119)
-            - [Sous-section 5 : Des violences ou insultes à sentinelle ou vedette. (art. L323-15 à L323-16)](#120)
-            - [Sous-section 6 : Du refus d'un service dû légalement. (art. L323-17 à L323-18)](#121)
-          - [Section 2 : Des abus d'autorité (art. L323-19 à L323-23)](#122)
-            - [Sous-section 1 : Des voies de fait et outrages à subordonné. (art. L323-19 à L323-21)](#123)
-            - [Sous-section 2 : Des abus du droit de réquisition. (art. L323-22)](#124)
-            - [Sous-section 3 : De la constitution illégale d'une juridiction répressive. (art. L323-23)](#125)
-        - [Chapitre IV : Des infractions aux consignes. (art. L324-1 à L324-11)](#126)
-      - [TITRE III : DES ATTEINTES AUX INTÉRÊTS FONDAMENTAUX DE LA NATION EN TEMPS DE GUERRE (art. L331-1 à L333-7)](#127)
-        - [Chapitre Ier : De la trahison et de l'espionnage en temps de guerre. (art. L331-1 à L331-4)](#128)
-        - [Chapitre II : Des autres atteintes à la défense nationale en temps de guerre. (art. L332-1 à L332-5)](#129)
-        - [Chapitre III : Dispositions générales. (art. L333-1 à L333-7)](#130)
-    - [LIVRE IV : DES PRÉVÔTÉS ET DES TRIBUNAUX PRÉVÔTAUX (art. L411-1 à L424-3)](#131)
-      - [TITRE Ier : DES PRÉVÔTÉS (art. L411-1 à L411-2)](#132)
-        - [Chapitre unique : Organisation et attributions. (art. L411-1 à L411-2)](#133)
-      - [TITRE II : DES TRIBUNAUX PRÉVÔTAUX (art. L421-1 à L424-3)](#134)
-        - [Chapitre Ier : Organisation et compétence. (art. L421-1 à L421-4)](#135)
-        - [Chapitre II : De la procédure avant l'audience. (art. L422-1 à L422-6)](#136)
-        - [Chapitre III : De la procédure à l'audience. (art. L423-1 à L423-2)](#137)
-        - [Chapitre IV : Du jugement. (art. L424-1 à L424-3)](#138)
-  - [Partie réglementaire : Décrets en Conseil d'Etat (art. R111-1 à R212-46)](#139)
-    - [LIVRE Ier : ORGANISATION ET COMPÉTENCE DE LA JUSTICE MILITAIRE (art. R111-1)](#140)
-      - [TITRE Ier : ORGANISATION (art. R111-1)](#141)
-        - [Chapitre Ier : Du siège du tribunal aux armées en temps de paix et hors du territoire de la République. (art. R111-1)](#142)
-    - [LIVRE II : PROCÉDURE PÉNALE MILITAIRE (art. R212-1 à R212-46)](#143)
-      - [TITRE Ier : DE L'EXERCICE DE L'ACTION PUBLIQUE ET DE L'INSTRUCTION (art. R212-1 à R212-46)](#144)
-        - [Chapitre II : En temps de guerre (art. R212-1 à R212-46)](#145)
-          - [Section 6 : Des juridictions d'instruction (art. R212-1 à R212-46)](#146)
-            - [Sous-section 1 : De l'instruction préparatoire. (art. R212-1 à R212-7)](#147)
-            - [Sous-section 2 : Du contrôle judiciaire, de la détention provisoire et de la liberté (art. R212-8 à R212-46)](#148)
-              - [Paragraphe 1 : Du contrôle judiciaire (art. R212-8 à R212-27)](#149)
-                - [Sous-paragraphe 1 : Des autorités ou personnes contribuant au contrôle judiciaire. (art. R212-8 à R212-10)](#150)
-                - [Sous-paragraphe 2 : Des modalités d'exécution du contrôle judiciaire. (art. R212-11 à R212-18)](#151)
-                - [Sous-paragraphe 3 : Du cautionnement. (art. R212-19 à R212-27)](#152)
-              - [Paragraphe 2 : De la détention provisoire et de la liberté (art. R212-28 à R212-46)](#153)
-                - [Sous-paragraphe 1 : De l'indemnisation à raison d'une détention provisoire. (art. R212-28 à R212-46)](#154)
-  - [Partie réglementaire : Décrets simples (art. D111-2 à D269-23)](#155)
-    - [LIVRE Ier : ORGANISATION ET COMPETENCE DE LA JUSTICE MILITAIRE (art. D111-2 à D112-22)](#156)
-      - [TITRE Ier : ORGANISATION (art. D111-2 à D112-22)](#157)
-        - [Chapitre Ier : Du tribunal aux armées (art. D111-2 à D111-6)](#158)
-          - [Section 1 : Etablissement (art. D111-2 à D111-3)](#159)
-          - [Section 2 : Personnels (art. D111-4 à D111-5)](#160)
-            - [Sous-section 1 : Du chef du parquet (art. D111-4)](#161)
-            - [Sous-section 2 : Du chef du service du greffe (art. D111-5)](#162)
-          - [Section 3 : Serment (art. D111-6)](#163)
-        - [Chapitre II : Des juridictions des forces armées en temps de guerre (art. D112-1 à D112-22)](#164)
-          - [Section 1 : Statuts particuliers des corps spéciaux et d'assimilés spéciaux (art. D112-1 à D112-21)](#165)
-            - [Sous-section 1 : Le corps spécial des magistrats (art. D112-1 à D112-11)](#166)
-            - [Sous-section 2 : Du cadre des officiers défenseurs assimilés spéciaux (art. D112-12 à D112-21)](#167)
-          - [Section 2 : Du chef du parquet et du chef du service du greffe (art. D112-22)](#168)
-    - [LIVRE II : PROCÉDURE PÉNALE MILITAIRE (art. D211-1 à D269-23)](#169)
-      - [TITRE Ier : DE L'EXERCICE DE L'ACTION PUBLIQUE ET DE L'INSTRUCTION (art. D211-1 à D212-47)](#170)
-        - [Chapitre Ier : En temps de paix et hors du territoire de la République (art. D211-1 à D211-14)](#171)
-        - [Chapitre II : En temps de guerre (art. D212-47)](#172)
-          - [Paragraphe 2 : De la détention provisoire et de la liberté (art. D212-47)](#173)
-            - [Sous-paragraphe 2 : Des établissements militaires d'incarcération (art. D212-47)](#174)
-      - [TITRE II : PROCÉDURE DEVANT LES JURIDICTIONS DE JUGEMENT (art. D221-1 à D222-4)](#175)
-        - [Chapitre Ier : En temps de paix et hors du territoire de la République (art. D221-1 à D221-2)](#176)
-          - [Section unique : De la délivrance des copies et extraits de jugement (art. D221-1 à D221-2)](#177)
-        - [Chapitre II : En temps de guerre (art. D222-1 à D222-4)](#178)
-          - [Section unique : De la délivrance des copies et extraits de jugement (art. D222-1 à D222-4)](#179)
-      - [TITRE VI : DES PROCÉDURES D'EXÉCUTION (art. D269-1 à D269-23)](#180)
-        - [Chapitre IX : Des frais de justice (art. D269-1 à D269-23)](#181)
-          - [Section 1 : Des dépenses (art. D269-1 à D269-3)](#182)
-          - [Section 2 : Des frais de justice (art. D269-4 à D269-23)](#183)
-            - [Sous-section 1 : Tarif des frais de justice (art. D269-5 à D269-15)](#184)
-            - [Sous-section 2 :Paiements et recouvrement des frais de justice (art. D269-16 à D269-23)](#185)
-              - [Paragraphe 1 : Paiement (art. D269-16 à D269-19)](#186)
-              - [Paragraphe 2 : Recouvrement (art. D269-20 à D269-23)](#187)
+    - [LIVRE Ier : ORGANISATION ET COMPÉTENCE DE LA JUSTICE MILITAIRE (art. L111-1 à L123-5)](#3)
+      - [TITRE Ier : ORGANISATION (art. L111-1 à L112-36)](#4)
+        - [Chapitre Ier : Des juridictions compétentes en matière militaire en temps de paix (art. L111-1)](#5)
+        - [Chapitre II : Des juridictions des forces armées en temps de guerre (art. L112-1 à L112-36)](#6)
+          - [Section 1 : Des tribunaux territoriaux des forces armées (art. L112-1 à L112-26)](#7)
+            - [Sous-section 1 : Etablissement. (art. L112-1 à L112-4)](#8)
+            - [Sous-section 2 : Composition. (art. L112-5 à L112-19)](#9)
+            - [Sous-section 3 : Chambre de l'instruction. (art. L112-20 à L112-21)](#10)
+            - [Sous-section 4 : Fonctionnement et service. (art. L112-22 à L112-26)](#11)
+          - [Section 2 : Des tribunaux militaires aux armées (art. L112-27 à L112-36)](#12)
+            - [Sous-section 1 : Etablissement. (art. L112-27 à L112-29)](#13)
+            - [Sous-section 2 : Composition. (art. L112-30 à L112-32)](#14)
+            - [Sous-section 3 : Chambre de l'instruction. (art. L112-33 à L112-34)](#15)
+            - [Sous-section 4 : Fonctionnement et service. (art. L112-35 à L112-36)](#16)
+      - [TITRE II : COMPÉTENCE (art. L121-1 à L123-5)](#17)
+        - [Chapitre Ier : En temps de paix et hors du territoire de la République. (art. L121-1 à L121-8)](#18)
+        - [Chapitre II : En temps de guerre. (art. L122-1 à L122-5)](#19)
+        - [Chapitre III : Règles communes. (art. L123-1 à L123-5)](#20)
+    - [LIVRE II : PROCÉDURE PÉNALE MILITAIRE DISPOSITIONS PRÉLIMINAIRES (art. L211-1 à L271-2)](#21)
+      - [TITRE Ier : DE L'EXERCICE DE L'ACTION PUBLIQUE ET DE L'INSTRUCTION (art. L211-1 à L212-191)](#22)
+        - [Chapitre Ier : En temps de paix et hors du territoire de la République (art. L211-1 à L211-25)](#23)
+          - [Section 1 : De la police judiciaire et des enquêtes. (art. L211-1 à L211-7)](#24)
+          - [Section 2 : De la garde à vue. (art. L211-8 à L211-10)](#25)
+          - [Section 3 : De l'action civile et de l'action publique. (art. L211-11 à L211-14)](#26)
+          - [Section 4 : Des juridictions d'instruction (art. L211-15 à L211-24)](#27)
+            - [Sous-section 1 : De l'instruction préparatoire. (art. L211-15 à L211-19)](#28)
+            - [Sous-section 2 : De la détention provisoire et de la liberté. (art. L211-20 à L211-22)](#29)
+            - [Sous-section 3 : De la chambre de l'instruction. (art. L211-23)](#30)
+            - [Sous-section 4 : De la réouverture de l'information sur charges nouvelles. (art. L211-24)](#31)
+          - [Section 5 : De la défense (art. L211-25)](#32)
+        - [Chapitre II : En temps de guerre (art. L212-1 à L212-191)](#33)
+          - [Section 1 : Des autorités investies des pouvoirs judiciaires. (art. L212-1)](#34)
+          - [Section 2 : De la police judiciaire (art. L212-2 à L212-6)](#35)
+            - [Sous-section 1 : De la police judiciaire militaire. (art. L212-2 à L212-4)](#36)
+            - [Sous-section 2 : Des officiers de police judiciaire civile. (art. L212-5 à L212-6)](#37)
+          - [Section 3 : Des enquêtes (art. L212-7 à L212-26)](#38)
+            - [Sous-section 1 : Des crimes et délits flagrants. (art. L212-7 à L212-22)](#39)
+            - [Sous-section 2 : De l'enquête préliminaire. (art. L212-23 à L212-25)](#40)
+            - [Sous-section 3 : De la suite à donner aux procédures d'enquête. (art. L212-26)](#41)
+          - [Section 4 : De l'arrestation, de la garde à vue et de la mise à disposition (art. L212-27 à L212-33)](#42)
+            - [Sous-section 1 : De l'arrestation, de la garde à vue et de la mise à disposition à l'égard des militaires. (art. L212-27 à L212-32)](#43)
+            - [Sous-section 2 : De la garde à vue à l'égard des personnes étrangères aux armées. (art. L212-33)](#44)
+          - [Section 5 : De l'action civile et de l'action publique. (art. L212-34 à L212-45)](#45)
+          - [Section 6 : Des juridictions d'instruction (art. L212-46 à L212-191)](#46)
+            - [Sous-section 1 : De l'instruction préparatoire. (art. L212-46 à L212-145)](#47)
+              - [Paragraphe 1 : Des commissions rogatoires, des transports, des perquisitions et des saisies. (art. L212-54 à L212-75)](#48)
+              - [Paragraphe 2 : Des auditions et expertises. (art. L212-76 à L212-129)](#49)
+              - [Paragraphe 3 : Des nullités de l'information et des ordonnances de règlement. (art. L212-130 à L212-140)](#50)
+              - [Paragraphe 4 : De l'appel des ordonnances du juge d'instruction. (art. L212-141 à L212-145)](#51)
+            - [Sous-section 2 : Du contrôle judiciaire, de la détention provisoire et de la liberté (art. L212-146 à L212-176)](#52)
+              - [Paragraphe 1 : Du contrôle judiciaire. (art. L212-146 à L212-154)](#53)
+              - [Paragraphe 2 : De la détention provisoire et de la liberté. (art. L212-155 à L212-176)](#54)
+            - [Sous-section 3 : De la chambre de l'instruction. (art. L212-177 à L212-191)](#55)
+      - [TITRE II : PROCÉDURE DEVANT LES JURIDICTIONS DE JUGEMENT (art. L221-3 à L222-80)](#56)
+        - [Chapitre Ier : En temps de paix et hors du territoire de la République. (art. L221-3)](#57)
+        - [Chapitre II : En temps de guerre. (art. L222-1 à L222-80)](#58)
+      - [TITRE III : DES VOIES DE RECOURS EXTRAORDINAIRES (art. L231-2 à L233-4)](#59)
+        - [Chapitre Ier : Du pourvoi en cassation (art. L231-2 à L231-10)](#60)
+        - [Chapitre II : Du pourvoi dans l'intérêt de la loi. (art. L232-1)](#61)
+        - [Chapitre III : Des demandes en révision (art. L233-2 à L233-4)](#62)
+      - [TITRE IV : DES CITATIONS ET NOTIFICATIONS (art. L241-1 à L241-11)](#63)
+        - [Chapitre unique. (art. L241-1 à L241-11)](#64)
+      - [TITRE V : DES PROCÉDURES PARTICULIÈRES DU TEMPS DE GUERRE (art. L251-1 à L255-23)](#65)
+        - [Chapitre Ier : Des jugements par défaut ou itératif défaut et de l'appel en temps de guerre (art. L251-1 à L251-28)](#66)
+          - [Section 1 : Du jugement par défaut des crimes et des délits en temps de guerre. (art. L251-1 à L251-18)](#67)
+          - [Section 2 : Du jugement par défaut des contraventions en temps de guerre. (art. L251-19 à L251-21)](#68)
+          - [Section 3 : De l'itératif défaut en temps de guerre. (art. L251-22)](#69)
+          - [Section 4 : De l'appel des jugements rendus en temps de guerre. (art. L251-23 à L251-28)](#70)
+        - [Chapitre II : Du séquestre et de la confiscation des biens en temps de guerre. (art. L252-1 à L252-12)](#71)
+        - [Chapitre III : De la reconnaissance d'identité d'un condamné en temps de guerre. (art. L253-1)](#72)
+        - [Chapitre IV : Des règlements de juges et des renvois d'un tribunal à un autre tribunal en temps de guerre. (art. L254-1 à L254-9)](#73)
+        - [Chapitre V : Des crimes et délits contre les intérêts fondamentaux de la nation en temps de guerre. (art. L255-1 à L255-23)](#74)
+      - [TITRE VI : DES PROCÉDURES D'EXÉCUTION (art. L261-1 à L269-4)](#75)
+        - [Chapitre Ier : De l'exécution des jugements. (art. L261-1 à L261-12)](#76)
+        - [Chapitre II : De l'exécution des peines. (art. L262-1 à L262-2)](#77)
+        - [Chapitre III : De la suspension de l'exécution des jugements. (art. L263-1 à L263-6)](#78)
+        - [Chapitre IV : De la libération conditionnelle. (art. L264-1 à L264-5)](#79)
+        - [Chapitre V : Du sursis et de la récidive. (art. L265-1 à L265-3)](#80)
+        - [Chapitre VI : De la réhabilitation et des demandes présentées en vue d'être relevé des interdictions, déchéances ou incapacités. (art. L266-1 à L266-4)](#81)
+        - [Chapitre VII : De la prescription des peines. (art. L267-1 à L267-2)](#82)
+        - [Chapitre VIII : Du casier judiciaire. (art. L268-1 à L268-2)](#83)
+        - [Chapitre IX : Des frais de justice et de la contrainte judiciaire. (art. L269-1 à L269-4)](#84)
+      - [TITRE VII : DISPOSITIONS DIVERSES (art. L271-1 à L271-2)](#85)
+        - [Chapitre unique. (art. L271-1 à L271-2)](#86)
+    - [LIVRE III : DES PEINES APPLICABLES PAR LES JURIDICTIONS DES FORCES ARMÉES ET DES INFRACTIONS D'ORDRE MILITAIRE (art. L311-1 à L333-7)](#87)
+      - [TITRE Ier : DES PEINES APPLICABLES PAR LES JURIDICTIONS DES FORCES ARMÉES (art. L311-1 à L311-14)](#88)
+        - [Chapitre unique. (art. L311-1 à L311-14)](#89)
+      - [TITRE II : DES INFRACTIONS D'ORDRE MILITAIRE (art. L321-1 à L324-11)](#90)
+        - [Chapitre Ier : Des infractions tendant à soustraire leur auteur à ses obligations militaires (art. L321-1 à L321-24)](#91)
+          - [Section 1 : De l'insoumission. (art. L321-1)](#92)
+          - [Section 2 : De la désertion (art. L321-2 à L321-17)](#93)
+            - [Sous-section 1 : De la désertion à l'intérieur. (art. L321-2 à L321-4)](#94)
+            - [Sous-section 2 : De la désertion à l'étranger. (art. L321-5 à L321-11)](#95)
+            - [Sous-section 3 : De la désertion à bande armée. (art. L321-12)](#96)
+            - [Sous-section 4 : De la désertion à l'ennemi ou en présence de l'ennemi. (art. L321-13 à L321-16)](#97)
+            - [Sous-section 5 : Dispositions communes aux diverses désertions. (art. L321-17)](#98)
+          - [Section 3 : De la provocation à la désertion et du recel de déserteur (art. L321-18 à L321-21)](#99)
+            - [Sous-section 1 : De la provocation à la désertion. (art. L321-18)](#100)
+            - [Sous-section 2 : Du recel de déserteur. (art. L321-19)](#101)
+            - [Sous-section 3 : Dispositions communes. (art. L321-20 à L321-21)](#102)
+          - [Section 4 : De la mutilation volontaire. (art. L321-22 à L321-24)](#103)
+        - [Chapitre II : Des infractions contre l'honneur ou le devoir (art. L322-1 à L322-18)](#104)
+          - [Section 1 : De la capitulation. (art. L322-1 à L322-2)](#105)
+          - [Section 2 : Du complot militaire. (art. L322-3)](#106)
+          - [Section 3 : Des pillages. (art. L322-5)](#107)
+          - [Section 4 : Des destructions. (art. L322-6 à L322-10)](#108)
+          - [Section 5 : Du faux, de la falsification, des détournements. (art. L322-11 à L322-14)](#109)
+          - [Section 6 : De l'usurpation d'uniformes, de décorations, de signes distinctifs et emblèmes. (art. L322-15 à L322-16)](#110)
+          - [Section 7 : De l'outrage au drapeau ou à l'armée. (art. L322-17)](#111)
+          - [Section 8 : De l'incitation à commettre des actes contraires au devoir ou à la discipline. (art. L322-18)](#112)
+        - [Chapitre III : Des infractions contre la discipline (art. L323-1 à L323-23)](#113)
+          - [Section 1 : De l'insubordination (art. L323-1 à L323-18)](#114)
+            - [Sous-section 1 : De la révolte militaire. (art. L323-1 à L323-3)](#115)
+            - [Sous-section 2 : De la rébellion. (art. L323-4 à L323-5)](#116)
+            - [Sous-section 3 : Du refus d'obéissance. (art. L323-6 à L323-8)](#117)
+            - [Sous-section 4 : Des voies de fait et outrages envers des supérieurs. (art. L323-9 à L323-14)](#118)
+            - [Sous-section 5 : Des violences ou insultes à sentinelle ou vedette. (art. L323-15 à L323-16)](#119)
+            - [Sous-section 6 : Du refus d'un service dû légalement. (art. L323-17 à L323-18)](#120)
+          - [Section 2 : Des abus d'autorité (art. L323-19 à L323-23)](#121)
+            - [Sous-section 1 : Des voies de fait et outrages à subordonné. (art. L323-19 à L323-21)](#122)
+            - [Sous-section 2 : Des abus du droit de réquisition. (art. L323-22)](#123)
+            - [Sous-section 3 : De la constitution illégale d'une juridiction répressive. (art. L323-23)](#124)
+        - [Chapitre IV : Des infractions aux consignes. (art. L324-1 à L324-11)](#125)
+      - [TITRE III : DES ATTEINTES AUX INTÉRÊTS FONDAMENTAUX DE LA NATION EN TEMPS DE GUERRE (art. L331-1 à L333-7)](#126)
+        - [Chapitre Ier : De la trahison et de l'espionnage en temps de guerre. (art. L331-1 à L331-4)](#127)
+        - [Chapitre II : Des autres atteintes à la défense nationale en temps de guerre. (art. L332-1 à L332-5)](#128)
+        - [Chapitre III : Dispositions générales. (art. L333-1 à L333-7)](#129)
+    - [LIVRE IV : DES PRÉVÔTÉS ET DES TRIBUNAUX PRÉVÔTAUX (art. L411-1 à L424-3)](#130)
+      - [TITRE Ier : DES PRÉVÔTÉS (art. L411-1 à L411-2)](#131)
+        - [Chapitre unique : Organisation et attributions. (art. L411-1 à L411-2)](#132)
+      - [TITRE II : DES TRIBUNAUX PRÉVÔTAUX (art. L421-1 à L424-3)](#133)
+        - [Chapitre Ier : Organisation et compétence. (art. L421-1 à L421-4)](#134)
+        - [Chapitre II : De la procédure avant l'audience. (art. L422-1 à L422-6)](#135)
+        - [Chapitre III : De la procédure à l'audience. (art. L423-1 à L423-2)](#136)
+        - [Chapitre IV : Du jugement. (art. L424-1 à L424-3)](#137)
+  - [Partie réglementaire : Décrets en Conseil d'Etat (art. R111-1 à R212-46)](#138)
+    - [LIVRE Ier : ORGANISATION ET COMPÉTENCE DE LA JUSTICE MILITAIRE (art. R111-1)](#139)
+      - [TITRE Ier : ORGANISATION (art. R111-1)](#140)
+        - [Chapitre Ier : Du siège du tribunal aux armées en temps de paix et hors du territoire de la République. (art. R111-1)](#141)
+    - [LIVRE II : PROCÉDURE PÉNALE MILITAIRE (art. R212-1 à R212-46)](#142)
+      - [TITRE Ier : DE L'EXERCICE DE L'ACTION PUBLIQUE ET DE L'INSTRUCTION (art. R212-1 à R212-46)](#143)
+        - [Chapitre II : En temps de guerre (art. R212-1 à R212-46)](#144)
+          - [Section 6 : Des juridictions d'instruction (art. R212-1 à R212-46)](#145)
+            - [Sous-section 1 : De l'instruction préparatoire. (art. R212-1 à R212-7)](#146)
+            - [Sous-section 2 : Du contrôle judiciaire, de la détention provisoire et de la liberté (art. R212-8 à R212-46)](#147)
+              - [Paragraphe 1 : Du contrôle judiciaire (art. R212-8 à R212-27)](#148)
+                - [Sous-paragraphe 1 : Des autorités ou personnes contribuant au contrôle judiciaire. (art. R212-8 à R212-10)](#149)
+                - [Sous-paragraphe 2 : Des modalités d'exécution du contrôle judiciaire. (art. R212-11 à R212-18)](#150)
+                - [Sous-paragraphe 3 : Du cautionnement. (art. R212-19 à R212-27)](#151)
+              - [Paragraphe 2 : De la détention provisoire et de la liberté (art. R212-28 à R212-46)](#152)
+                - [Sous-paragraphe 1 : De l'indemnisation à raison d'une détention provisoire. (art. R212-28 à R212-46)](#153)
+  - [Partie réglementaire : Décrets simples (art. D111-2 à D269-23)](#154)
+    - [LIVRE Ier : ORGANISATION ET COMPETENCE DE LA JUSTICE MILITAIRE (art. D111-2 à D112-22)](#155)
+      - [TITRE Ier : ORGANISATION (art. D111-2 à D112-22)](#156)
+        - [Chapitre Ier : Du tribunal aux armées (art. D111-2 à D111-6)](#157)
+          - [Section 1 : Etablissement (art. D111-2 à D111-3)](#158)
+          - [Section 2 : Personnels (art. D111-4 à D111-5)](#159)
+            - [Sous-section 1 : Du chef du parquet (art. D111-4)](#160)
+            - [Sous-section 2 : Du chef du service du greffe (art. D111-5)](#161)
+          - [Section 3 : Serment (art. D111-6)](#162)
+        - [Chapitre II : Des juridictions des forces armées en temps de guerre (art. D112-1 à D112-22)](#163)
+          - [Section 1 : Statuts particuliers des corps spéciaux et d'assimilés spéciaux (art. D112-1 à D112-21)](#164)
+            - [Sous-section 1 : Le corps spécial des magistrats (art. D112-1 à D112-11)](#165)
+            - [Sous-section 2 : Du cadre des officiers défenseurs assimilés spéciaux (art. D112-12 à D112-21)](#166)
+          - [Section 2 : Du chef du parquet et du chef du service du greffe (art. D112-22)](#167)
+    - [LIVRE II : PROCÉDURE PÉNALE MILITAIRE (art. D211-1 à D269-23)](#168)
+      - [TITRE Ier : DE L'EXERCICE DE L'ACTION PUBLIQUE ET DE L'INSTRUCTION (art. D211-1 à D212-47)](#169)
+        - [Chapitre Ier : En temps de paix et hors du territoire de la République (art. D211-1 à D211-14)](#170)
+        - [Chapitre II : En temps de guerre (art. D212-47)](#171)
+          - [Paragraphe 2 : De la détention provisoire et de la liberté (art. D212-47)](#172)
+            - [Sous-paragraphe 2 : Des établissements militaires d'incarcération (art. D212-47)](#173)
+      - [TITRE II : PROCÉDURE DEVANT LES JURIDICTIONS DE JUGEMENT (art. D221-1 à D222-4)](#174)
+        - [Chapitre Ier : En temps de paix et hors du territoire de la République (art. D221-1 à D221-2)](#175)
+          - [Section unique : De la délivrance des copies et extraits de jugement (art. D221-1 à D221-2)](#176)
+        - [Chapitre II : En temps de guerre (art. D222-1 à D222-4)](#177)
+          - [Section unique : De la délivrance des copies et extraits de jugement (art. D222-1 à D222-4)](#178)
+      - [TITRE VI : DES PROCÉDURES D'EXÉCUTION (art. D269-1 à D269-23)](#179)
+        - [Chapitre IX : Des frais de justice (art. D269-1 à D269-23)](#180)
+          - [Section 1 : Des dépenses (art. D269-1 à D269-3)](#181)
+          - [Section 2 : Des frais de justice (art. D269-4 à D269-23)](#182)
+            - [Sous-section 1 : Tarif des frais de justice (art. D269-5 à D269-15)](#183)
+            - [Sous-section 2 :Paiements et recouvrement des frais de justice (art. D269-16 à D269-23)](#184)
+              - [Paragraphe 1 : Paiement (art. D269-16 à D269-19)](#185)
+              - [Paragraphe 2 : Recouvrement (art. D269-20 à D269-23)](#186)
 # Partie législative<a id=1></a>
 
 ## TITRE PRÉLIMINAIRE.<a id=2></a>
@@ -297,9 +296,7 @@ _Codifié par_:
 
 ### TITRE Ier : ORGANISATION<a id=4></a>
 
-#### Chapitre Ier : Du tribunal aux armées en temps de paix<a id=5></a>
-
-#### Chapitre Ier : Des juridictions compétentes en matière militaire en temps de paix<a id=6></a>
+#### Chapitre Ier : Des juridictions compétentes en matière militaire en temps de paix<a id=5></a>
 
 ###### Article L111-1
 
@@ -344,11 +341,11 @@ _Cité par_:
   - Code de justice militaire. - art. L2 (VD)
 
 
-#### Chapitre II : Des juridictions des forces armées en temps de guerre<a id=7></a>
+#### Chapitre II : Des juridictions des forces armées en temps de guerre<a id=6></a>
 
-##### Section 1 : Des tribunaux territoriaux des forces armées<a id=8></a>
+##### Section 1 : Des tribunaux territoriaux des forces armées<a id=7></a>
 
-##### Sous-section 1 : Etablissement.<a id=9></a>
+##### Sous-section 1 : Etablissement.<a id=8></a>
 
 ###### Article L112-1
 
@@ -487,7 +484,7 @@ _Cité par_:
   - Code de justice militaire. - art. L261-10 (V)
 
 
-##### Sous-section 2 : Composition.<a id=10></a>
+##### Sous-section 2 : Composition.<a id=9></a>
 
 ###### Article L112-5
 
@@ -943,7 +940,7 @@ _Codifié par_:
   - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
 
 
-##### Sous-section 3 : Chambre de l'instruction.<a id=11></a>
+##### Sous-section 3 : Chambre de l'instruction.<a id=10></a>
 
 ###### Article L112-20
 
@@ -1017,7 +1014,7 @@ _Cite_:
   - Code de justice militaire. - art. L112-16 (V)
 
 
-##### Sous-section 4 : Fonctionnement et service.<a id=12></a>
+##### Sous-section 4 : Fonctionnement et service.<a id=11></a>
 
 ###### Article L112-22
 
@@ -1352,9 +1349,9 @@ _Cité par_:
   - Code de justice militaire. - art. L212-122 (V)
 
 
-##### Section 2 : Des tribunaux militaires aux armées<a id=13></a>
+##### Section 2 : Des tribunaux militaires aux armées<a id=12></a>
 
-##### Sous-section 1 : Etablissement.<a id=14></a>
+##### Sous-section 1 : Etablissement.<a id=13></a>
 
 ###### Article L112-27
 
@@ -1459,7 +1456,7 @@ _Cite_:
   - Code de justice militaire. - art. L254-4 (V)
 
 
-##### Sous-section 2 : Composition.<a id=15></a>
+##### Sous-section 2 : Composition.<a id=14></a>
 
 ###### Article L112-30
 
@@ -1558,7 +1555,7 @@ _Cité par_:
   - Code de justice militaire. - art. L112-33 (V)
 
 
-##### Sous-section 3 : Chambre de l'instruction.<a id=16></a>
+##### Sous-section 3 : Chambre de l'instruction.<a id=15></a>
 
 ###### Article L112-33
 
@@ -1622,7 +1619,7 @@ _Codifié par_:
   - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
 
 
-##### Sous-section 4 : Fonctionnement et service.<a id=17></a>
+##### Sous-section 4 : Fonctionnement et service.<a id=16></a>
 
 ###### Article L112-35
 
@@ -1686,9 +1683,9 @@ _Cité par_:
   - Code de justice militaire. - art. L212-122 (V)
 
 
-### TITRE II : COMPÉTENCE<a id=18></a>
+### TITRE II : COMPÉTENCE<a id=17></a>
 
-#### Chapitre Ier : En temps de paix et hors du territoire de la République.<a id=19></a>
+#### Chapitre Ier : En temps de paix et hors du territoire de la République.<a id=18></a>
 
 ###### Article L121-1
 
@@ -1916,7 +1913,7 @@ _Cite_:
   - Code de justice militaire
 
 
-#### Chapitre II : En temps de guerre.<a id=20></a>
+#### Chapitre II : En temps de guerre.<a id=19></a>
 
 ###### Article L122-1
 
@@ -2088,7 +2085,7 @@ _Cité par_:
   - Code de justice militaire. - art. L123-2 (V)
 
 
-#### Chapitre III : Règles communes.<a id=21></a>
+#### Chapitre III : Règles communes.<a id=20></a>
 
 ###### Article L123-1
 
@@ -2222,13 +2219,13 @@ _Cite_:
   - Code de justice militaire L123-2, L123-3, L123-4
 
 
-## LIVRE II : PROCÉDURE PÉNALE MILITAIRE DISPOSITIONS PRÉLIMINAIRES<a id=22></a>
+## LIVRE II : PROCÉDURE PÉNALE MILITAIRE DISPOSITIONS PRÉLIMINAIRES<a id=21></a>
 
-### TITRE Ier : DE L'EXERCICE DE L'ACTION PUBLIQUE ET DE L'INSTRUCTION<a id=23></a>
+### TITRE Ier : DE L'EXERCICE DE L'ACTION PUBLIQUE ET DE L'INSTRUCTION<a id=22></a>
 
-#### Chapitre Ier : En temps de paix et hors du territoire de la République<a id=24></a>
+#### Chapitre Ier : En temps de paix et hors du territoire de la République<a id=23></a>
 
-##### Section 1 : De la police judiciaire et des enquêtes.<a id=25></a>
+##### Section 1 : De la police judiciaire et des enquêtes.<a id=24></a>
 
 ###### Article L211-1
 
@@ -2479,7 +2476,7 @@ _Cité par_:
   - Code de justice militaire. - art. L212-3 (V)
 
 
-##### Section 2 : De la garde à vue.<a id=26></a>
+##### Section 2 : De la garde à vue.<a id=25></a>
 
 ###### Article L211-8
 
@@ -2555,7 +2552,7 @@ _Modifié par_:
   - Loi n°2011-1862 du 13 décembre 2011 - art. 32
 
 
-##### Section 3 : De l'action civile et de l'action publique.<a id=27></a>
+##### Section 3 : De l'action civile et de l'action publique.<a id=26></a>
 
 ###### Article L211-11
 
@@ -2654,9 +2651,9 @@ _Modifié par_:
   - Loi n°2011-1862 du 13 décembre 2011 - art. 32
 
 
-##### Section 4 : Des juridictions d'instruction<a id=28></a>
+##### Section 4 : Des juridictions d'instruction<a id=27></a>
 
-##### Sous-section 1 : De l'instruction préparatoire.<a id=29></a>
+##### Sous-section 1 : De l'instruction préparatoire.<a id=28></a>
 
 ###### Article L211-15
 
@@ -2789,7 +2786,7 @@ _Cite_:
   - Code de procédure pénale - art. 133 (V)
 
 
-##### Sous-section 2 : De la détention provisoire et de la liberté.<a id=30></a>
+##### Sous-section 2 : De la détention provisoire et de la liberté.<a id=29></a>
 
 ###### Article L211-20
 
@@ -2887,7 +2884,7 @@ _Cité par_:
   - Code de procédure pénale - art. 698-5 (V)
 
 
-##### Sous-section 3 : De la chambre de l'instruction.<a id=31></a>
+##### Sous-section 3 : De la chambre de l'instruction.<a id=30></a>
 
 ###### Article L211-23
 
@@ -2920,7 +2917,7 @@ _Abrogé par_:
   - Loi n°2013-1168 du 18 décembre 2013 - art. 56
 
 
-##### Sous-section 4 : De la réouverture de l'information sur charges nouvelles.<a id=32></a>
+##### Sous-section 4 : De la réouverture de l'information sur charges nouvelles.<a id=31></a>
 
 ###### Article L211-24
 
@@ -2949,7 +2946,7 @@ _Cite_:
   - Code de justice militaire. - art. L211-1 (V)
 
 
-##### Section 5 : De la défense<a id=33></a>
+##### Section 5 : De la défense<a id=32></a>
 
 ###### Article L211-25
 
@@ -2968,9 +2965,9 @@ _Cite_:
   - Code de justice militaire. -  Chapitre Ier : En temps de paix et hors du terr... (V)
 
 
-#### Chapitre II : En temps de guerre<a id=34></a>
+#### Chapitre II : En temps de guerre<a id=33></a>
 
-##### Section 1 : Des autorités investies des pouvoirs judiciaires.<a id=35></a>
+##### Section 1 : Des autorités investies des pouvoirs judiciaires.<a id=34></a>
 
 ###### Article L212-1
 
@@ -3007,9 +3004,9 @@ _Cité par_:
   - Code de justice militaire. - art. L212-23 (V)
 
 
-##### Section 2 : De la police judiciaire<a id=36></a>
+##### Section 2 : De la police judiciaire<a id=35></a>
 
-##### Sous-section 1 : De la police judiciaire militaire.<a id=37></a>
+##### Sous-section 1 : De la police judiciaire militaire.<a id=36></a>
 
 ###### Article L212-2
 
@@ -3140,7 +3137,7 @@ _Codifié par_:
   - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
 
 
-##### Sous-section 2 : Des officiers de police judiciaire civile.<a id=38></a>
+##### Sous-section 2 : Des officiers de police judiciaire civile.<a id=37></a>
 
 ###### Article L212-5
 
@@ -3232,9 +3229,9 @@ _Cite_:
   - Code de justice militaire. - art. L212-9 (V)
 
 
-##### Section 3 : Des enquêtes<a id=39></a>
+##### Section 3 : Des enquêtes<a id=38></a>
 
-##### Sous-section 1 : Des crimes et délits flagrants.<a id=40></a>
+##### Sous-section 1 : Des crimes et délits flagrants.<a id=39></a>
 
 ###### Article L212-7
 
@@ -3717,7 +3714,7 @@ _Cite_:
   - Code de justice militaire. - art. L212-90 (V)
 
 
-##### Sous-section 2 : De l'enquête préliminaire.<a id=41></a>
+##### Sous-section 2 : De l'enquête préliminaire.<a id=40></a>
 
 ###### Article L212-23
 
@@ -3805,7 +3802,7 @@ _Cite_:
   - Code de justice militaire. - art. L212-29 (V)
 
 
-##### Sous-section 3 : De la suite à donner aux procédures d'enquête.<a id=42></a>
+##### Sous-section 3 : De la suite à donner aux procédures d'enquête.<a id=41></a>
 
 ###### Article L212-26
 
@@ -3835,9 +3832,9 @@ _Codifié par_:
   - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
 
 
-##### Section 4 : De l'arrestation, de la garde à vue et de la mise à disposition<a id=43></a>
+##### Section 4 : De l'arrestation, de la garde à vue et de la mise à disposition<a id=42></a>
 
-##### Sous-section 1 : De l'arrestation, de la garde à vue et de la mise à disposition à l'égard des militaires.<a id=44></a>
+##### Sous-section 1 : De l'arrestation, de la garde à vue et de la mise à disposition à l'égard des militaires.<a id=43></a>
 
 ###### Article L212-27
 
@@ -4056,7 +4053,7 @@ _Cité par_:
   - Code de justice militaire. - art. L212-33 (V)
 
 
-##### Sous-section 2 : De la garde à vue à l'égard des personnes étrangères aux armées.<a id=45></a>
+##### Sous-section 2 : De la garde à vue à l'égard des personnes étrangères aux armées.<a id=44></a>
 
 ###### Article L212-33
 
@@ -4094,7 +4091,7 @@ _Cite_:
   - Code de justice militaire. - art. L255-7 (V)
 
 
-##### Section 5 : De l'action civile et de l'action publique.<a id=46></a>
+##### Section 5 : De l'action civile et de l'action publique.<a id=45></a>
 
 ###### Article L212-34
 
@@ -4449,9 +4446,9 @@ _Codifié par_:
   - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
 
 
-##### Section 6 : Des juridictions d'instruction<a id=47></a>
+##### Section 6 : Des juridictions d'instruction<a id=46></a>
 
-##### Sous-section 1 : De l'instruction préparatoire.<a id=48></a>
+##### Sous-section 1 : De l'instruction préparatoire.<a id=47></a>
 
 ###### Article L212-46
 
@@ -4713,7 +4710,7 @@ _Cité par_:
   - Code de justice militaire. - art. R212-1 (V)
 
 
-##### Paragraphe 1 : Des commissions rogatoires, des transports, des perquisitions et des saisies.<a id=49></a>
+##### Paragraphe 1 : Des commissions rogatoires, des transports, des perquisitions et des saisies.<a id=48></a>
 
 ###### Article L212-54
 
@@ -5326,7 +5323,7 @@ _Modifié par_:
   - Loi n°2007-289 2007-03-05 art. 2 6° JORF 6 mars 2007 en vigueur le 12 mai 2007
 
 
-##### Paragraphe 2 : Des auditions et expertises.<a id=50></a>
+##### Paragraphe 2 : Des auditions et expertises.<a id=49></a>
 
 ###### Article L212-76
 
@@ -6891,7 +6888,7 @@ _Cite_:
   - Code de justice militaire. - art. L212-84 (V)
 
 
-##### Paragraphe 3 : Des nullités de l'information et des ordonnances de règlement.<a id=51></a>
+##### Paragraphe 3 : Des nullités de l'information et des ordonnances de règlement.<a id=50></a>
 
 ###### Article L212-130
 
@@ -7250,7 +7247,7 @@ _Codifié par_:
   - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
 
 
-##### Paragraphe 4 : De l'appel des ordonnances du juge d'instruction.<a id=52></a>
+##### Paragraphe 4 : De l'appel des ordonnances du juge d'instruction.<a id=51></a>
 
 ###### Article L212-141
 
@@ -7445,9 +7442,9 @@ _Cite_:
   - Code de justice militaire. - art. L222-53 (V)
 
 
-##### Sous-section 2 : Du contrôle judiciaire, de la détention provisoire et de la liberté<a id=53></a>
+##### Sous-section 2 : Du contrôle judiciaire, de la détention provisoire et de la liberté<a id=52></a>
 
-##### Paragraphe 1 : Du contrôle judiciaire.<a id=54></a>
+##### Paragraphe 1 : Du contrôle judiciaire.<a id=53></a>
 
 ###### Article L212-146
 
@@ -7794,7 +7791,7 @@ _Cité par_:
   - Code de justice militaire. - art. L212-188 (V)
 
 
-##### Paragraphe 2 : De la détention provisoire et de la liberté.<a id=55></a>
+##### Paragraphe 2 : De la détention provisoire et de la liberté.<a id=54></a>
 
 ###### Article L212-155
 
@@ -8486,7 +8483,7 @@ _Codifié par_:
   - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
 
 
-##### Sous-section 3 : De la chambre de l'instruction.<a id=56></a>
+##### Sous-section 3 : De la chambre de l'instruction.<a id=55></a>
 
 ###### Article L212-177
 
@@ -9023,9 +9020,9 @@ _Cite_:
   - Code de justice militaire. - art. L231-2 (V)
 
 
-### TITRE II : PROCÉDURE DEVANT LES JURIDICTIONS DE JUGEMENT<a id=57></a>
+### TITRE II : PROCÉDURE DEVANT LES JURIDICTIONS DE JUGEMENT<a id=56></a>
 
-#### Chapitre Ier : En temps de paix et hors du territoire de la République.<a id=58></a>
+#### Chapitre Ier : En temps de paix et hors du territoire de la République.<a id=57></a>
 
 ###### Article L221-3
 
@@ -9058,7 +9055,7 @@ _Cité par_:
   - Code de procédure pénale - art. 698-5 (V)
 
 
-#### Chapitre II : En temps de guerre.<a id=59></a>
+#### Chapitre II : En temps de guerre.<a id=58></a>
 
 ###### Article L222-1
 
@@ -11437,9 +11434,9 @@ _Cite_:
   - Code de justice militaire. - art. L222-26 (V)
 
 
-### TITRE III : DES VOIES DE RECOURS EXTRAORDINAIRES<a id=60></a>
+### TITRE III : DES VOIES DE RECOURS EXTRAORDINAIRES<a id=59></a>
 
-#### Chapitre Ier : Du pourvoi en cassation<a id=61></a>
+#### Chapitre Ier : Du pourvoi en cassation<a id=60></a>
 
 ###### Article L231-2
 
@@ -11716,7 +11713,7 @@ _Modifié par_:
   - Loi n°2011-1862 du 13 décembre 2011 - art. 32
 
 
-#### Chapitre II : Du pourvoi dans l'intérêt de la loi.<a id=62></a>
+#### Chapitre II : Du pourvoi dans l'intérêt de la loi.<a id=61></a>
 
 ###### Article L232-1
 
@@ -11746,7 +11743,7 @@ _Cite_:
   - Code de procédure pénale - art. 620 (V)
 
 
-#### Chapitre III : Des demandes en révision<a id=63></a>
+#### Chapitre III : Des demandes en révision<a id=62></a>
 
 ###### Article L233-2
 
@@ -11849,9 +11846,9 @@ _Cite_:
   - Code de justice militaire. - art. L212-43 (V)
 
 
-### TITRE IV : DES CITATIONS ET NOTIFICATIONS<a id=64></a>
+### TITRE IV : DES CITATIONS ET NOTIFICATIONS<a id=63></a>
 
-#### Chapitre unique.<a id=65></a>
+#### Chapitre unique.<a id=64></a>
 
 ###### Article L241-1
 
@@ -12214,11 +12211,11 @@ _Cite_:
   - Code de justice militaire. - art. L222-53 (V)
 
 
-### TITRE V : DES PROCÉDURES PARTICULIÈRES DU TEMPS DE GUERRE<a id=66></a>
+### TITRE V : DES PROCÉDURES PARTICULIÈRES DU TEMPS DE GUERRE<a id=65></a>
 
-#### Chapitre Ier : Des jugements par défaut ou itératif défaut et de l'appel en temps de guerre<a id=67></a>
+#### Chapitre Ier : Des jugements par défaut ou itératif défaut et de l'appel en temps de guerre<a id=66></a>
 
-##### Section 1 : Du jugement par défaut des crimes et des délits en temps de guerre.<a id=68></a>
+##### Section 1 : Du jugement par défaut des crimes et des délits en temps de guerre.<a id=67></a>
 
 ###### Article L251-1
 
@@ -12885,7 +12882,7 @@ _Cite_:
   - Code de justice militaire. - art. L112-4 (V)
 
 
-##### Section 2 : Du jugement par défaut des contraventions en temps de guerre.<a id=69></a>
+##### Section 2 : Du jugement par défaut des contraventions en temps de guerre.<a id=68></a>
 
 ###### Article L251-19
 
@@ -12995,7 +12992,7 @@ _Cite_:
   - Code de justice militaire. - art. L251-16 (V)
 
 
-##### Section 3 : De l'itératif défaut en temps de guerre.<a id=70></a>
+##### Section 3 : De l'itératif défaut en temps de guerre.<a id=69></a>
 
 ###### Article L251-22
 
@@ -13030,7 +13027,7 @@ _Modifié par_:
   - Loi n°2007-289 2007-03-05 art. 2 17° JORF 6 mars 2007 en vigueur le 12 mai 2007
 
 
-##### Section 4 : De l'appel des jugements rendus en temps de guerre.<a id=71></a>
+##### Section 4 : De l'appel des jugements rendus en temps de guerre.<a id=70></a>
 
 ###### Article L251-23
 
@@ -13218,7 +13215,7 @@ _Cite_:
   - Code de justice militaire. - art. L222-72 (V)
 
 
-#### Chapitre II : Du séquestre et de la confiscation des biens en temps de guerre.<a id=72></a>
+#### Chapitre II : Du séquestre et de la confiscation des biens en temps de guerre.<a id=71></a>
 
 ###### Article L252-1
 
@@ -13566,7 +13563,7 @@ _Codifié par_:
   - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
 
 
-#### Chapitre III : De la reconnaissance d'identité d'un condamné en temps de guerre.<a id=73></a>
+#### Chapitre III : De la reconnaissance d'identité d'un condamné en temps de guerre.<a id=72></a>
 
 ###### Article L253-1
 
@@ -13596,7 +13593,7 @@ _Codifié par_:
   - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
 
 
-#### Chapitre IV : Des règlements de juges et des renvois d'un tribunal à un autre tribunal en temps de guerre.<a id=74></a>
+#### Chapitre IV : Des règlements de juges et des renvois d'un tribunal à un autre tribunal en temps de guerre.<a id=73></a>
 
 ###### Article L254-1
 
@@ -13837,7 +13834,7 @@ _Codifié par_:
   - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
 
 
-#### Chapitre V : Des crimes et délits contre les intérêts fondamentaux de la nation en temps de guerre.<a id=75></a>
+#### Chapitre V : Des crimes et délits contre les intérêts fondamentaux de la nation en temps de guerre.<a id=74></a>
 
 ###### Article L255-1
 
@@ -14559,9 +14556,9 @@ _Cite_:
   - Code de justice militaire. - art. L231-2 (V)
 
 
-### TITRE VI : DES PROCÉDURES D'EXÉCUTION<a id=76></a>
+### TITRE VI : DES PROCÉDURES D'EXÉCUTION<a id=75></a>
 
-#### Chapitre Ier : De l'exécution des jugements.<a id=77></a>
+#### Chapitre Ier : De l'exécution des jugements.<a id=76></a>
 
 ###### Article L261-1
 
@@ -14909,7 +14906,7 @@ _Cité par_:
   - Code de justice militaire. - art. L424-2 (V)
 
 
-#### Chapitre II : De l'exécution des peines.<a id=78></a>
+#### Chapitre II : De l'exécution des peines.<a id=77></a>
 
 ###### Article L262-1
 
@@ -14954,7 +14951,7 @@ _Cité par_:
   - Code de procédure pénale - art. 698-5 (V)
 
 
-#### Chapitre III : De la suspension de l'exécution des jugements.<a id=79></a>
+#### Chapitre III : De la suspension de l'exécution des jugements.<a id=78></a>
 
 ###### Article L263-1
 
@@ -15141,7 +15138,7 @@ _Codifié par_:
   - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
 
 
-#### Chapitre IV : De la libération conditionnelle.<a id=80></a>
+#### Chapitre IV : De la libération conditionnelle.<a id=79></a>
 
 ###### Article L264-1
 
@@ -15288,7 +15285,7 @@ _Cité par_:
   - Code de procédure pénale - art. 698-5 (V)
 
 
-#### Chapitre V : Du sursis et de la récidive.<a id=81></a>
+#### Chapitre V : Du sursis et de la récidive.<a id=80></a>
 
 ###### Article L265-1
 
@@ -15392,7 +15389,7 @@ _Cité par_:
   - Code de procédure pénale - art. 698-5 (V)
 
 
-#### Chapitre VI : De la réhabilitation et des demandes présentées en vue d'être relevé des interdictions, déchéances ou incapacités.<a id=82></a>
+#### Chapitre VI : De la réhabilitation et des demandes présentées en vue d'être relevé des interdictions, déchéances ou incapacités.<a id=81></a>
 
 ###### Article L266-1
 
@@ -15511,7 +15508,7 @@ _Codifié par_:
   - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
 
 
-#### Chapitre VII : De la prescription des peines.<a id=83></a>
+#### Chapitre VII : De la prescription des peines.<a id=82></a>
 
 ###### Article L267-1
 
@@ -15574,7 +15571,7 @@ _Cité par_:
   - Code de la défense. - art. L4271-5 (V)
 
 
-#### Chapitre VIII : Du casier judiciaire.<a id=84></a>
+#### Chapitre VIII : Du casier judiciaire.<a id=83></a>
 
 ###### Article L268-1
 
@@ -15639,7 +15636,7 @@ _Cite_:
   - Code de justice militaire. - art. L324-5 (V)
 
 
-#### Chapitre IX : Des frais de justice et de la contrainte judiciaire.<a id=85></a>
+#### Chapitre IX : Des frais de justice et de la contrainte judiciaire.<a id=84></a>
 
 ###### Article L269-1
 
@@ -15748,9 +15745,9 @@ _Cite_:
   - Code de justice militaire L269-3
 
 
-### TITRE VII : DISPOSITIONS DIVERSES<a id=86></a>
+### TITRE VII : DISPOSITIONS DIVERSES<a id=85></a>
 
-#### Chapitre unique.<a id=87></a>
+#### Chapitre unique.<a id=86></a>
 
 ###### Article L271-1
 
@@ -15800,11 +15797,11 @@ _Codifié par_:
   - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
 
 
-## LIVRE III : DES PEINES APPLICABLES PAR LES JURIDICTIONS DES FORCES ARMÉES ET DES INFRACTIONS D'ORDRE MILITAIRE<a id=88></a>
+## LIVRE III : DES PEINES APPLICABLES PAR LES JURIDICTIONS DES FORCES ARMÉES ET DES INFRACTIONS D'ORDRE MILITAIRE<a id=87></a>
 
-### TITRE Ier : DES PEINES APPLICABLES PAR LES JURIDICTIONS DES FORCES ARMÉES<a id=89></a>
+### TITRE Ier : DES PEINES APPLICABLES PAR LES JURIDICTIONS DES FORCES ARMÉES<a id=88></a>
 
-#### Chapitre unique.<a id=90></a>
+#### Chapitre unique.<a id=89></a>
 
 ###### Article L311-1
 
@@ -16125,11 +16122,11 @@ _Cite_:
   - Code pénal - art. 122-4 (V)
 
 
-### TITRE II : DES INFRACTIONS D'ORDRE MILITAIRE<a id=91></a>
+### TITRE II : DES INFRACTIONS D'ORDRE MILITAIRE<a id=90></a>
 
-#### Chapitre Ier : Des infractions tendant à soustraire leur auteur à ses obligations militaires<a id=92></a>
+#### Chapitre Ier : Des infractions tendant à soustraire leur auteur à ses obligations militaires<a id=91></a>
 
-##### Section 1 : De l'insoumission.<a id=93></a>
+##### Section 1 : De l'insoumission.<a id=92></a>
 
 ###### Article L321-1
 
@@ -16171,9 +16168,9 @@ _Cité par_:
   - Code de la défense. - art. L4271-1 (V)
 
 
-##### Section 2 : De la désertion<a id=94></a>
+##### Section 2 : De la désertion<a id=93></a>
 
-##### Sous-section 1 : De la désertion à l'intérieur.<a id=95></a>
+##### Sous-section 1 : De la désertion à l'intérieur.<a id=94></a>
 
 ###### Article L321-2
 
@@ -16266,7 +16263,7 @@ _Modifié par_:
   - Loi n°2011-1862 du 13 décembre 2011 - art. 36
 
 
-##### Sous-section 2 : De la désertion à l'étranger.<a id=96></a>
+##### Sous-section 2 : De la désertion à l'étranger.<a id=95></a>
 
 ###### Article L321-5
 
@@ -16389,7 +16386,7 @@ _Cité par_:
   - Code de justice militaire. - art. L333-1 (V)
 
 
-##### Sous-section 3 : De la désertion à bande armée.<a id=97></a>
+##### Sous-section 3 : De la désertion à bande armée.<a id=96></a>
 
 ###### Article L321-12
 
@@ -16422,7 +16419,7 @@ _Cité par_:
   - Code de justice militaire. - art. L333-1 (V)
 
 
-##### Sous-section 4 : De la désertion à l'ennemi ou en présence de l'ennemi.<a id=98></a>
+##### Sous-section 4 : De la désertion à l'ennemi ou en présence de l'ennemi.<a id=97></a>
 
 ###### Article L321-13
 
@@ -16529,7 +16526,7 @@ _Cite_:
   - Code de justice militaire. - art. L121-5 (V)
 
 
-##### Sous-section 5 : Dispositions communes aux diverses désertions.<a id=99></a>
+##### Sous-section 5 : Dispositions communes aux diverses désertions.<a id=98></a>
 
 ###### Article L321-17
 
@@ -16559,9 +16556,9 @@ _Cite_:
   - Code pénal - art. 131-26 (V)
 
 
-##### Section 3 : De la provocation à la désertion et du recel de déserteur<a id=100></a>
+##### Section 3 : De la provocation à la désertion et du recel de déserteur<a id=99></a>
 
-##### Sous-section 1 : De la provocation à la désertion.<a id=101></a>
+##### Sous-section 1 : De la provocation à la désertion.<a id=100></a>
 
 ###### Article L321-18
 
@@ -16598,7 +16595,7 @@ _Cité par_:
   - Code de justice militaire. - art. L321-20 (V)
 
 
-##### Sous-section 2 : Du recel de déserteur.<a id=102></a>
+##### Sous-section 2 : Du recel de déserteur.<a id=101></a>
 
 ###### Article L321-19
 
@@ -16625,7 +16622,7 @@ _Codifié par_:
   - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
 
 
-##### Sous-section 3 : Dispositions communes.<a id=103></a>
+##### Sous-section 3 : Dispositions communes.<a id=102></a>
 
 ###### Article L321-20
 
@@ -16682,7 +16679,7 @@ _Cite_:
   - Code de justice militaire. - art. L121-3 (V)
 
 
-##### Section 4 : De la mutilation volontaire.<a id=104></a>
+##### Section 4 : De la mutilation volontaire.<a id=103></a>
 
 ###### Article L321-22
 
@@ -16780,9 +16777,9 @@ _Cite_:
   - Code de justice militaire. - art. L121-3 (V)
 
 
-#### Chapitre II : Des infractions contre l'honneur ou le devoir<a id=105></a>
+#### Chapitre II : Des infractions contre l'honneur ou le devoir<a id=104></a>
 
-##### Section 1 : De la capitulation.<a id=106></a>
+##### Section 1 : De la capitulation.<a id=105></a>
 
 ###### Article L322-1
 
@@ -16840,7 +16837,7 @@ _Codifié par_:
   - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
 
 
-##### Section 2 : Du complot militaire.<a id=107></a>
+##### Section 2 : Du complot militaire.<a id=106></a>
 
 ###### Article L322-3
 
@@ -16877,7 +16874,7 @@ _Cité par_:
   - Code de justice militaire. - art. L333-1 (V)
 
 
-##### Section 3 : Des pillages.<a id=108></a>
+##### Section 3 : Des pillages.<a id=107></a>
 
 ###### Article L322-5
 
@@ -16911,7 +16908,7 @@ _Cité par_:
   - Code de justice militaire. - art. L333-1 (V)
 
 
-##### Section 4 : Des destructions.<a id=109></a>
+##### Section 4 : Des destructions.<a id=108></a>
 
 ###### Article L322-6
 
@@ -17068,7 +17065,7 @@ _Codifié par_:
   - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
 
 
-##### Section 5 : Du faux, de la falsification, des détournements.<a id=110></a>
+##### Section 5 : Du faux, de la falsification, des détournements.<a id=109></a>
 
 ###### Article L322-11
 
@@ -17185,7 +17182,7 @@ _Codifié par_:
   - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
 
 
-##### Section 6 : De l'usurpation d'uniformes, de décorations, de signes distinctifs et emblèmes.<a id=111></a>
+##### Section 6 : De l'usurpation d'uniformes, de décorations, de signes distinctifs et emblèmes.<a id=110></a>
 
 ###### Article L322-15
 
@@ -17240,7 +17237,7 @@ _Codifié par_:
   - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
 
 
-##### Section 7 : De l'outrage au drapeau ou à l'armée.<a id=112></a>
+##### Section 7 : De l'outrage au drapeau ou à l'armée.<a id=111></a>
 
 ###### Article L322-17
 
@@ -17268,7 +17265,7 @@ _Codifié par_:
   - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
 
 
-##### Section 8 : De l'incitation à commettre des actes contraires au devoir ou à la discipline.<a id=113></a>
+##### Section 8 : De l'incitation à commettre des actes contraires au devoir ou à la discipline.<a id=112></a>
 
 ###### Article L322-18
 
@@ -17301,11 +17298,11 @@ _Codifié par_:
   - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
 
 
-#### Chapitre III : Des infractions contre la discipline<a id=114></a>
+#### Chapitre III : Des infractions contre la discipline<a id=113></a>
 
-##### Section 1 : De l'insubordination<a id=115></a>
+##### Section 1 : De l'insubordination<a id=114></a>
 
-##### Sous-section 1 : De la révolte militaire.<a id=116></a>
+##### Sous-section 1 : De la révolte militaire.<a id=115></a>
 
 ###### Article L323-1
 
@@ -17418,7 +17415,7 @@ _Cité par_:
   - Code de justice militaire. - art. L333-1 (V)
 
 
-##### Sous-section 2 : De la rébellion.<a id=117></a>
+##### Sous-section 2 : De la rébellion.<a id=116></a>
 
 ###### Article L323-4
 
@@ -17487,7 +17484,7 @@ _Cité par_:
   - Code de justice militaire. - art. L333-1 (V)
 
 
-##### Sous-section 3 : Du refus d'obéissance.<a id=118></a>
+##### Sous-section 3 : Du refus d'obéissance.<a id=117></a>
 
 ###### Article L323-6
 
@@ -17581,7 +17578,7 @@ _Cite_:
   - Code de justice militaire L323-6, L323-7
 
 
-##### Sous-section 4 : Des voies de fait et outrages envers des supérieurs.<a id=119></a>
+##### Sous-section 4 : Des voies de fait et outrages envers des supérieurs.<a id=118></a>
 
 ###### Article L323-9
 
@@ -17765,7 +17762,7 @@ _Cite_:
   - Code de justice militaire. - art. L323-16 (V)
 
 
-##### Sous-section 5 : Des violences ou insultes à sentinelle ou vedette.<a id=120></a>
+##### Sous-section 5 : Des violences ou insultes à sentinelle ou vedette.<a id=119></a>
 
 ###### Article L323-15
 
@@ -17834,7 +17831,7 @@ _Cité par_:
   - Code de justice militaire. - art. L323-14 (V)
 
 
-##### Sous-section 6 : Du refus d'un service dû légalement.<a id=121></a>
+##### Sous-section 6 : Du refus d'un service dû légalement.<a id=120></a>
 
 ###### Article L323-17
 
@@ -17887,9 +17884,9 @@ _Codifié par_:
   - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
 
 
-##### Section 2 : Des abus d'autorité<a id=122></a>
+##### Section 2 : Des abus d'autorité<a id=121></a>
 
-##### Sous-section 1 : Des voies de fait et outrages à subordonné.<a id=123></a>
+##### Sous-section 1 : Des voies de fait et outrages à subordonné.<a id=122></a>
 
 ###### Article L323-19
 
@@ -17970,7 +17967,7 @@ _Cite_:
   - Code de justice militaire L323-19, L323-20
 
 
-##### Sous-section 2 : Des abus du droit de réquisition.<a id=124></a>
+##### Sous-section 2 : Des abus du droit de réquisition.<a id=123></a>
 
 ###### Article L323-22
 
@@ -18009,7 +18006,7 @@ _Cité par_:
   - Code de la défense. - art. L2236-6 (V)
 
 
-##### Sous-section 3 : De la constitution illégale d'une juridiction répressive.<a id=125></a>
+##### Sous-section 3 : De la constitution illégale d'une juridiction répressive.<a id=124></a>
 
 ###### Article L323-23
 
@@ -18039,7 +18036,7 @@ _Cité par_:
   - Code de justice militaire. - art. L333-1 (V)
 
 
-#### Chapitre IV : Des infractions aux consignes.<a id=126></a>
+#### Chapitre IV : Des infractions aux consignes.<a id=125></a>
 
 ###### Article L324-1
 
@@ -18381,9 +18378,9 @@ _Cité par_:
   - Code des transports - art. L5262-5 (V)
 
 
-### TITRE III : DES ATTEINTES AUX INTÉRÊTS FONDAMENTAUX DE LA NATION EN TEMPS DE GUERRE<a id=127></a>
+### TITRE III : DES ATTEINTES AUX INTÉRÊTS FONDAMENTAUX DE LA NATION EN TEMPS DE GUERRE<a id=126></a>
 
-#### Chapitre Ier : De la trahison et de l'espionnage en temps de guerre.<a id=128></a>
+#### Chapitre Ier : De la trahison et de l'espionnage en temps de guerre.<a id=127></a>
 
 ###### Article L331-1
 
@@ -18502,7 +18499,7 @@ _Codifié par_:
   - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
 
 
-#### Chapitre II : Des autres atteintes à la défense nationale en temps de guerre.<a id=129></a>
+#### Chapitre II : Des autres atteintes à la défense nationale en temps de guerre.<a id=128></a>
 
 ###### Article L332-1
 
@@ -18672,7 +18669,7 @@ _Cite_:
   - Code pénal - art. 413-7 (V)
 
 
-#### Chapitre III : Dispositions générales.<a id=130></a>
+#### Chapitre III : Dispositions générales.<a id=129></a>
 
 ###### Article L333-1
 
@@ -18902,11 +18899,11 @@ _Cite_:
   - Code pénal - art. 131-30
 
 
-## LIVRE IV : DES PRÉVÔTÉS ET DES TRIBUNAUX PRÉVÔTAUX<a id=131></a>
+## LIVRE IV : DES PRÉVÔTÉS ET DES TRIBUNAUX PRÉVÔTAUX<a id=130></a>
 
-### TITRE Ier : DES PRÉVÔTÉS<a id=132></a>
+### TITRE Ier : DES PRÉVÔTÉS<a id=131></a>
 
-#### Chapitre unique : Organisation et attributions.<a id=133></a>
+#### Chapitre unique : Organisation et attributions.<a id=132></a>
 
 ###### Article L411-1
 
@@ -18972,9 +18969,9 @@ _Cité par_:
   - Code de la défense. - art. R*1142-1 (V)
 
 
-### TITRE II : DES TRIBUNAUX PRÉVÔTAUX<a id=134></a>
+### TITRE II : DES TRIBUNAUX PRÉVÔTAUX<a id=133></a>
 
-#### Chapitre Ier : Organisation et compétence.<a id=135></a>
+#### Chapitre Ier : Organisation et compétence.<a id=134></a>
 
 ###### Article L421-1
 
@@ -19096,7 +19093,7 @@ _Cite_:
   - Code de justice militaire L421-2
 
 
-#### Chapitre II : De la procédure avant l'audience.<a id=136></a>
+#### Chapitre II : De la procédure avant l'audience.<a id=135></a>
 
 ###### Article L422-1
 
@@ -19237,7 +19234,7 @@ _Codifié par_:
   - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
 
 
-#### Chapitre III : De la procédure à l'audience.<a id=137></a>
+#### Chapitre III : De la procédure à l'audience.<a id=136></a>
 
 ###### Article L423-1
 
@@ -19310,7 +19307,7 @@ _Codifié par_:
   - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
 
 
-#### Chapitre IV : Du jugement.<a id=138></a>
+#### Chapitre IV : Du jugement.<a id=137></a>
 
 ###### Article L424-1
 
@@ -19403,13 +19400,13 @@ _Cite_:
   - Code de justice militaire. - art. L231-2 (V)
 
 
-# Partie réglementaire : Décrets en Conseil d'Etat<a id=139></a>
+# Partie réglementaire : Décrets en Conseil d'Etat<a id=138></a>
 
-## LIVRE Ier : ORGANISATION ET COMPÉTENCE DE LA JUSTICE MILITAIRE<a id=140></a>
+## LIVRE Ier : ORGANISATION ET COMPÉTENCE DE LA JUSTICE MILITAIRE<a id=139></a>
 
-### TITRE Ier : ORGANISATION<a id=141></a>
+### TITRE Ier : ORGANISATION<a id=140></a>
 
-#### Chapitre Ier : Du siège du tribunal aux armées en temps de paix et hors du territoire de la République.<a id=142></a>
+#### Chapitre Ier : Du siège du tribunal aux armées en temps de paix et hors du territoire de la République.<a id=141></a>
 
 ###### Article R111-1
 
@@ -19426,15 +19423,15 @@ _Abrogé par_:
   - Décret n°2014-748 du 30 juin 2014 - art. 1
 
 
-## LIVRE II : PROCÉDURE PÉNALE MILITAIRE<a id=143></a>
+## LIVRE II : PROCÉDURE PÉNALE MILITAIRE<a id=142></a>
 
-### TITRE Ier : DE L'EXERCICE DE L'ACTION PUBLIQUE ET DE L'INSTRUCTION<a id=144></a>
+### TITRE Ier : DE L'EXERCICE DE L'ACTION PUBLIQUE ET DE L'INSTRUCTION<a id=143></a>
 
-#### Chapitre II : En temps de guerre<a id=145></a>
+#### Chapitre II : En temps de guerre<a id=144></a>
 
-##### Section 6 : Des juridictions d'instruction<a id=146></a>
+##### Section 6 : Des juridictions d'instruction<a id=145></a>
 
-##### Sous-section 1 : De l'instruction préparatoire.<a id=147></a>
+##### Sous-section 1 : De l'instruction préparatoire.<a id=146></a>
 
 ###### Article R212-1
 
@@ -19590,11 +19587,11 @@ _Cite_:
   - Code de justice militaire R212-3, R212-4
 
 
-##### Sous-section 2 : Du contrôle judiciaire, de la détention provisoire et de la liberté<a id=148></a>
+##### Sous-section 2 : Du contrôle judiciaire, de la détention provisoire et de la liberté<a id=147></a>
 
-##### Paragraphe 1 : Du contrôle judiciaire<a id=149></a>
+##### Paragraphe 1 : Du contrôle judiciaire<a id=148></a>
 
-##### Sous-paragraphe 1 : Des autorités ou personnes contribuant au contrôle judiciaire.<a id=150></a>
+##### Sous-paragraphe 1 : Des autorités ou personnes contribuant au contrôle judiciaire.<a id=149></a>
 
 ###### Article R212-8
 
@@ -19655,7 +19652,7 @@ _Cite_:
   - Code de justice militaire. - art. L212-146 (V)
 
 
-##### Sous-paragraphe 2 : Des modalités d'exécution du contrôle judiciaire.<a id=151></a>
+##### Sous-paragraphe 2 : Des modalités d'exécution du contrôle judiciaire.<a id=150></a>
 
 ###### Article R212-11
 
@@ -19790,7 +19787,7 @@ _Cite_:
   - Code de justice militaire. - art. L212-146 (V)
 
 
-##### Sous-paragraphe 3 : Du cautionnement.<a id=152></a>
+##### Sous-paragraphe 3 : Du cautionnement.<a id=151></a>
 
 ###### Article R212-19
 
@@ -19937,9 +19934,9 @@ _Cite_:
   - Code de justice militaire. - art. L212-153 (V)
 
 
-##### Paragraphe 2 : De la détention provisoire et de la liberté<a id=153></a>
+##### Paragraphe 2 : De la détention provisoire et de la liberté<a id=152></a>
 
-##### Sous-paragraphe 1 : De l'indemnisation à raison d'une détention provisoire.<a id=154></a>
+##### Sous-paragraphe 1 : De l'indemnisation à raison d'une détention provisoire.<a id=153></a>
 
 ###### Article R212-28
 
@@ -19974,7 +19971,7 @@ _Cite_:
 
 Dans un délai de quinze jours à compter de la réception de la requête, le secrétaire de la commission en transmet copie au
 procureur général près la Cour de cassation et, par lettre recommandée avec demande d'avis de réception, à l'agent judiciaire
-du Trésor.
+de l'Etat. 
 
 Il demande au greffe de la juridiction qui a rendu la décision de non-lieu, de relaxe ou d'acquittement la communication du
 dossier de la procédure.
@@ -19983,7 +19980,11 @@ dossier de la procédure.
 
 _Codifié par_:
 
-  - Décret n°2007-759 2007-05-10 JORF 11 mai 2007
+  - Décret n°2007-759 du 10 mai 2007
+
+_Modifié par_:
+
+  - Décret n°2012-985 du 23 août 2012 - art. 4
 
 
 ###### Article R212-30
@@ -20000,27 +20001,31 @@ _Codifié par_:
 
 ###### Article R212-31
 
-L'agent judiciaire du Trésor peut prendre connaissance du dossier de la procédure pénale au secrétariat de la commission. Il
-lui est délivré sans frais, sur sa demande, copie des pièces.
+L'   agent judiciaire de l'Etat peut prendre connaissance du dossier de la procédure pénale au secrétariat de la commission.
+Il lui est délivré sans frais, sur sa demande, copie des pièces. 
 
-L'agent judiciaire du Trésor dépose ses conclusions au secrétariat de la commission dans le délai de deux mois à compter de
+L'agent judiciaire de l'Etat dépose ses conclusions au secrétariat de la commission dans le délai de deux mois à compter de
 la réception de la lettre recommandée prévue à l'article R. 212-29.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2007-759 2007-05-10 JORF 11 mai 2007
+  - Décret n°2007-759 du 10 mai 2007
+
+_Modifié par_:
+
+  - Décret n°2012-985 du 23 août 2012 - art. 4
 
 _Cite_:
 
-  - Code de justice militaire R212-29
+  - Code de justice militaire
 
 
 ###### Article R212-32
 
-Lorsque l'agent judiciaire du Trésor a déposé ses conclusions ou à l'expiration du délai prévu à l'article R. 212-31, le
-secrétaire de la commission transmet le dossier au procureur général près la Cour de cassation.
+Lorsque l'agent judiciaire de l'Etat a déposé ses conclusions ou à l'expiration du délai prévu à l'article R. 212-31, le
+secrétaire de la commission transmet le dossier au procureur général près la Cour de cassation. 
 
 Le procureur général dépose ses conclusions dans le mois suivant.
 
@@ -20028,40 +20033,52 @@ Le procureur général dépose ses conclusions dans le mois suivant.
 
 _Codifié par_:
 
-  - Décret n°2007-759 2007-05-10 JORF 11 mai 2007
+  - Décret n°2007-759 du 10 mai 2007
+
+_Modifié par_:
+
+  - Décret n°2012-985 du 23 août 2012 - art. 4
 
 _Cite_:
 
-  - Code de justice militaire R212-31
+  - Code de justice militaire
 
 
 ###### Article R212-33
 
 Le secrétaire de la commission notifie au demandeur, par lettre recommandée avec demande d'avis de réception, dans le délai
-de quinze jours à compter de leur dépôt, les conclusions de l'agent judiciaire du Trésor et celles du procureur général.
+de quinze jours à compter de leur dépôt, les conclusions de l'agent judiciaire de l'Etat et celles du procureur général.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2007-759 2007-05-10 JORF 11 mai 2007
+  - Décret n°2007-759 du 10 mai 2007
+
+_Modifié par_:
+
+  - Décret n°2012-985 du 23 août 2012 - art. 4
 
 
 ###### Article R212-34
 
 Dans le délai d'un mois à compter de la dernière des notifications prévues à l'article R. 212-33, le demandeur remet ou
-adresse au secrétaire de la commission ses observations en réponse qui sont communiquées à l'agent judiciaire du Trésor et au
+adresse au secrétaire de la commission ses observations en réponse qui sont communiquées à l'agent judiciaire de l'Etat et au
 procureur général dans le délai de quinze jours.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2007-759 2007-05-10 JORF 11 mai 2007
+  - Décret n°2007-759 du 10 mai 2007
+
+_Modifié par_:
+
+  - Décret n°2012-985 du 23 août 2012 - art. 4
 
 _Cite_:
 
-  - Code de justice militaire R212-33
+  - Code de justice militaire
 
 
 ###### Article R212-35
@@ -20095,8 +20112,8 @@ _Codifié par_:
 ###### Article R212-37
 
 Le président de la commission fixe la date de l'audience après avis du procureur général. Cette date est notifiée par le
-secrétaire de la commission, par lettre recommandée avec demande d'avis de réception, au demandeur et à l'agent judiciaire du
-Trésor un mois au moins avant l'audience.
+secrétaire de la commission, par lettre recommandée avec demande d'avis de réception, au demandeur et à l'agent judiciaire de
+l'Etat un mois au moins avant l'audience. 
 
 Le demandeur est invité à faire connaître s'il comparaîtra, assisté ou non d'un avocat, devant la commission pour être
 entendu personnellement ou s'il entend se faire représenter par un avocat.
@@ -20105,24 +20122,32 @@ entendu personnellement ou s'il entend se faire représenter par un avocat.
 
 _Codifié par_:
 
-  - Décret n°2007-759 2007-05-10 JORF 11 mai 2007
+  - Décret n°2007-759 du 10 mai 2007
+
+_Modifié par_:
+
+  - Décret n°2012-985 du 23 août 2012 - art. 4
 
 
 ###### Article R212-38
 
-Le demandeur et l'agent judiciaire du Trésor peuvent être représentés ou assistés par un avocat au Conseil d'Etat et à la
+Le demandeur et l'agent judiciaire de l'Etat peuvent être représentés ou assistés par un avocat au Conseil d'Etat et à la
 Cour de cassation ou par un avocat régulièrement inscrit à un barreau.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2007-759 2007-05-10 JORF 11 mai 2007
+  - Décret n°2007-759 du 10 mai 2007
+
+_Modifié par_:
+
+  - Décret n°2012-985 du 23 août 2012 - art. 4
 
 
 ###### Article R212-39
 
-Après le rapport, le demandeur s'il y a lieu, l'agent judiciaire du Trésor et leurs avocats respectifs sont entendus.
+Après le rapport, le demandeur s'il y a lieu, l'agent judiciaire de l'Etat et leurs avocats respectifs sont entendus. 
 
 Le procureur général développe ses conclusions.
 
@@ -20130,7 +20155,11 @@ Le procureur général développe ses conclusions.
 
 _Codifié par_:
 
-  - Décret n°2007-759 2007-05-10 JORF 11 mai 2007
+  - Décret n°2007-759 du 10 mai 2007
+
+_Modifié par_:
+
+  - Décret n°2012-985 du 23 août 2012 - art. 4
 
 
 ###### Article R212-40
@@ -20162,8 +20191,8 @@ _Codifié par_:
 
 ###### Article R212-42
 
-La décision de la commission est notifiée sans délai au demandeur et à l'agent judiciaire du Trésor par lettre recommandée
-avec demande d'avis de réception.
+La décision de la commission est notifiée sans délai au demandeur et à l'agent judiciaire de l'Etat par lettre recommandée
+avec demande d'avis de réception. 
 
 Le dossier de la procédure pénale est renvoyé avec une copie de la décision.
 
@@ -20171,7 +20200,11 @@ Le dossier de la procédure pénale est renvoyé avec une copie de la décision.
 
 _Codifié par_:
 
-  - Décret n°2007-759 2007-05-10 JORF 11 mai 2007
+  - Décret n°2007-759 du 10 mai 2007
+
+_Modifié par_:
+
+  - Décret n°2012-985 du 23 août 2012 - art. 4
 
 
 ###### Article R212-43
@@ -20239,15 +20272,15 @@ _Codifié par_:
   - Décret n°2007-759 2007-05-10 JORF 11 mai 2007
 
 
-# Partie réglementaire : Décrets simples<a id=155></a>
+# Partie réglementaire : Décrets simples<a id=154></a>
 
-## LIVRE Ier : ORGANISATION ET COMPETENCE DE LA JUSTICE MILITAIRE<a id=156></a>
+## LIVRE Ier : ORGANISATION ET COMPETENCE DE LA JUSTICE MILITAIRE<a id=155></a>
 
-### TITRE Ier : ORGANISATION<a id=157></a>
+### TITRE Ier : ORGANISATION<a id=156></a>
 
-#### Chapitre Ier : Du tribunal aux armées<a id=158></a>
+#### Chapitre Ier : Du tribunal aux armées<a id=157></a>
 
-##### Section 1 : Etablissement<a id=159></a>
+##### Section 1 : Etablissement<a id=158></a>
 
 ###### Article D111-2
 
@@ -20280,9 +20313,9 @@ _Abrogé par_:
   - Décret n°2014-749 du 30 juin 2014 - art. 1
 
 
-##### Section 2 : Personnels<a id=160></a>
+##### Section 2 : Personnels<a id=159></a>
 
-##### Sous-section 1 : Du chef du parquet<a id=161></a>
+##### Sous-section 1 : Du chef du parquet<a id=160></a>
 
 ###### Article D111-4
 
@@ -20310,7 +20343,7 @@ _Cité par_:
   - Code de justice militaire. - art. D112-22 (V)
 
 
-##### Sous-section 2 : Du chef du service du greffe<a id=162></a>
+##### Sous-section 2 : Du chef du service du greffe<a id=161></a>
 
 ###### Article D111-5
 
@@ -20355,7 +20388,7 @@ _Abrogé par_:
   - Décret n°2014-749 du 30 juin 2014 - art. 1
 
 
-##### Section 3 : Serment<a id=163></a>
+##### Section 3 : Serment<a id=162></a>
 
 ###### Article D111-6
 
@@ -20375,11 +20408,11 @@ _Abrogé par_:
   - Décret n°2014-749 du 30 juin 2014 - art. 1
 
 
-#### Chapitre II : Des juridictions des forces armées en temps de guerre<a id=164></a>
+#### Chapitre II : Des juridictions des forces armées en temps de guerre<a id=163></a>
 
-##### Section 1 : Statuts particuliers des corps spéciaux et d'assimilés spéciaux<a id=165></a>
+##### Section 1 : Statuts particuliers des corps spéciaux et d'assimilés spéciaux<a id=164></a>
 
-##### Sous-section 1 : Le corps spécial des magistrats<a id=166></a>
+##### Sous-section 1 : Le corps spécial des magistrats<a id=165></a>
 
 ###### Article D112-1
 
@@ -20591,7 +20624,7 @@ _Créé par_:
   - Décret n°2008-691 du 10 juillet 2008 - art.
 
 
-##### Sous-section 2 : Du cadre des officiers défenseurs assimilés spéciaux<a id=167></a>
+##### Sous-section 2 : Du cadre des officiers défenseurs assimilés spéciaux<a id=166></a>
 
 ###### Article D112-12
 
@@ -20769,7 +20802,7 @@ _Créé par_:
   - Décret n°2008-691 du 10 juillet 2008 - art.
 
 
-##### Section 2 : Du chef du parquet et du chef du service du greffe<a id=168></a>
+##### Section 2 : Du chef du parquet et du chef du service du greffe<a id=167></a>
 
 ###### Article D112-22
 
@@ -20787,11 +20820,11 @@ _Cite_:
   - Code de justice militaire. - art. D111-4
 
 
-## LIVRE II : PROCÉDURE PÉNALE MILITAIRE<a id=169></a>
+## LIVRE II : PROCÉDURE PÉNALE MILITAIRE<a id=168></a>
 
-### TITRE Ier : DE L'EXERCICE DE L'ACTION PUBLIQUE ET DE L'INSTRUCTION<a id=170></a>
+### TITRE Ier : DE L'EXERCICE DE L'ACTION PUBLIQUE ET DE L'INSTRUCTION<a id=169></a>
 
-#### Chapitre Ier : En temps de paix et hors du territoire de la République<a id=171></a>
+#### Chapitre Ier : En temps de paix et hors du territoire de la République<a id=170></a>
 
 ###### Article D211-1
 
@@ -21022,11 +21055,11 @@ _Créé par_:
   - Décret n°2008-691 du 10 juillet 2008 - art.
 
 
-#### Chapitre II : En temps de guerre<a id=172></a>
+#### Chapitre II : En temps de guerre<a id=171></a>
 
-##### Paragraphe 2 : De la détention provisoire et de la liberté<a id=173></a>
+##### Paragraphe 2 : De la détention provisoire et de la liberté<a id=172></a>
 
-##### Sous-paragraphe 2 : Des établissements militaires d'incarcération<a id=174></a>
+##### Sous-paragraphe 2 : Des établissements militaires d'incarcération<a id=173></a>
 
 ###### Article D212-47
 
@@ -21045,11 +21078,11 @@ _Cite_:
   - Code de justice militaire. - art. L212-159
 
 
-### TITRE II : PROCÉDURE DEVANT LES JURIDICTIONS DE JUGEMENT<a id=175></a>
+### TITRE II : PROCÉDURE DEVANT LES JURIDICTIONS DE JUGEMENT<a id=174></a>
 
-#### Chapitre Ier : En temps de paix et hors du territoire de la République<a id=176></a>
+#### Chapitre Ier : En temps de paix et hors du territoire de la République<a id=175></a>
 
-##### Section unique : De la délivrance des copies et extraits de jugement<a id=177></a>
+##### Section unique : De la délivrance des copies et extraits de jugement<a id=176></a>
 
 ###### Article D221-1
 
@@ -21096,9 +21129,9 @@ _Nouveaux textes_:
   - Code de justice militaire. - art. D222-5 (V)
 
 
-#### Chapitre II : En temps de guerre<a id=178></a>
+#### Chapitre II : En temps de guerre<a id=177></a>
 
-##### Section unique : De la délivrance des copies et extraits de jugement<a id=179></a>
+##### Section unique : De la délivrance des copies et extraits de jugement<a id=178></a>
 
 ###### Article D222-1
 
@@ -21189,11 +21222,11 @@ _Cite_:
   - Code de justice militaire. - art. D221-1 (T)
 
 
-### TITRE VI : DES PROCÉDURES D'EXÉCUTION<a id=180></a>
+### TITRE VI : DES PROCÉDURES D'EXÉCUTION<a id=179></a>
 
-#### Chapitre IX : Des frais de justice<a id=181></a>
+#### Chapitre IX : Des frais de justice<a id=180></a>
 
-##### Section 1 : Des dépenses<a id=182></a>
+##### Section 1 : Des dépenses<a id=181></a>
 
 ###### Article D269-1
 
@@ -21263,7 +21296,7 @@ _Créé par_:
   - Décret n°2008-691 du 10 juillet 2008 - art.
 
 
-##### Section 2 : Des frais de justice<a id=183></a>
+##### Section 2 : Des frais de justice<a id=182></a>
 
 ###### Article D269-4
 
@@ -21364,7 +21397,7 @@ _Cité par_:
   - Code de justice militaire. - art. D269-6 (V)
 
 
-##### Sous-section 1 : Tarif des frais de justice<a id=184></a>
+##### Sous-section 1 : Tarif des frais de justice<a id=183></a>
 
 ###### Article D269-5
 
@@ -21621,9 +21654,9 @@ _Cite_:
   - CODE GENERAL DES IMPOTS, CGI. - art. 1018 A (V)
 
 
-##### Sous-section 2 :Paiements et recouvrement des frais de justice<a id=185></a>
+##### Sous-section 2 :Paiements et recouvrement des frais de justice<a id=184></a>
 
-##### Paragraphe 1 : Paiement<a id=186></a>
+##### Paragraphe 1 : Paiement<a id=185></a>
 
 ###### Article D269-16
 
@@ -21694,7 +21727,7 @@ _Cite_:
   - Code de justice militaire. - art. D269-13
 
 
-##### Paragraphe 2 : Recouvrement<a id=187></a>
+##### Paragraphe 2 : Recouvrement<a id=186></a>
 
 ###### Article D269-20
 
