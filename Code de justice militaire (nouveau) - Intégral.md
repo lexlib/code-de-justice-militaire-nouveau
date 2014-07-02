@@ -1,5 +1,5 @@
 # Code de justice militaire (nouveau)  
-Version Consolidée au 2014-05-30
+Version Consolidée au 2014-07-03
 ## Contenu: 
   - [Partie législative (art. L1 à L424-3)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L4)](#2)
@@ -137,55 +137,47 @@ Version Consolidée au 2014-05-30
         - [Chapitre II : De la procédure avant l'audience. (art. L422-1 à L422-6)](#134)
         - [Chapitre III : De la procédure à l'audience. (art. L423-1 à L423-2)](#135)
         - [Chapitre IV : Du jugement. (art. L424-1 à L424-3)](#136)
-  - [Partie réglementaire : Décrets en Conseil d'Etat (art. R111-1 à R212-46)](#137)
-    - [LIVRE Ier : ORGANISATION ET COMPÉTENCE DE LA JUSTICE MILITAIRE (art. R111-1)](#138)
-      - [TITRE Ier : ORGANISATION (art. R111-1)](#139)
-        - [Chapitre Ier : Du siège du tribunal aux armées en temps de paix et hors du territoire de la République. (art. R111-1)](#140)
-    - [LIVRE II : PROCÉDURE PÉNALE MILITAIRE (art. R212-1 à R212-46)](#141)
-      - [TITRE Ier : DE L'EXERCICE DE L'ACTION PUBLIQUE ET DE L'INSTRUCTION (art. R212-1 à R212-46)](#142)
-        - [Chapitre II : En temps de guerre (art. R212-1 à R212-46)](#143)
-          - [Section 6 : Des juridictions d'instruction (art. R212-1 à R212-46)](#144)
-            - [Sous-section 1 : De l'instruction préparatoire. (art. R212-1 à R212-7)](#145)
-            - [Sous-section 2 : Du contrôle judiciaire, de la détention provisoire et de la liberté (art. R212-8 à R212-46)](#146)
-              - [Paragraphe 1 : Du contrôle judiciaire (art. R212-8 à R212-27)](#147)
-                - [Sous-paragraphe 1 : Des autorités ou personnes contribuant au contrôle judiciaire. (art. R212-8 à R212-10)](#148)
-                - [Sous-paragraphe 2 : Des modalités d'exécution du contrôle judiciaire. (art. R212-11 à R212-18)](#149)
-                - [Sous-paragraphe 3 : Du cautionnement. (art. R212-19 à R212-27)](#150)
-              - [Paragraphe 2 : De la détention provisoire et de la liberté (art. R212-28 à R212-46)](#151)
-                - [Sous-paragraphe 1 : De l'indemnisation à raison d'une détention provisoire. (art. R212-28 à R212-46)](#152)
-  - [Partie réglementaire : Décrets simples (art. D111-2 à D269-23)](#153)
-    - [LIVRE Ier : ORGANISATION ET COMPETENCE DE LA JUSTICE MILITAIRE (art. D111-2 à D112-22)](#154)
-      - [TITRE Ier : ORGANISATION (art. D111-2 à D112-22)](#155)
-        - [Chapitre Ier : Du tribunal aux armées (art. D111-2 à D111-6)](#156)
-          - [Section 1 : Etablissement (art. D111-2 à D111-3)](#157)
-          - [Section 2 : Personnels (art. D111-4 à D111-5)](#158)
-            - [Sous-section 1 : Du chef du parquet (art. D111-4)](#159)
-            - [Sous-section 2 : Du chef du service du greffe (art. D111-5)](#160)
-          - [Section 3 : Serment (art. D111-6)](#161)
-        - [Chapitre II : Des juridictions des forces armées en temps de guerre (art. D112-1 à D112-22)](#162)
-          - [Section 1 : Statuts particuliers des corps spéciaux et d'assimilés spéciaux (art. D112-1 à D112-21)](#163)
-            - [Sous-section 1 : Le corps spécial des magistrats (art. D112-1 à D112-11)](#164)
-            - [Sous-section 2 : Du cadre des officiers défenseurs assimilés spéciaux (art. D112-12 à D112-21)](#165)
-          - [Section 2 : Du chef du parquet et du chef du service du greffe (art. D112-22)](#166)
-    - [LIVRE II : PROCÉDURE PÉNALE MILITAIRE (art. D211-1 à D269-23)](#167)
-      - [TITRE Ier : DE L'EXERCICE DE L'ACTION PUBLIQUE ET DE L'INSTRUCTION (art. D211-1 à D212-47)](#168)
-        - [Chapitre Ier : En temps de paix et hors du territoire de la République (art. D211-1 à D211-14)](#169)
-        - [Chapitre II : En temps de guerre (art. D212-47)](#170)
-          - [Paragraphe 2 : De la détention provisoire et de la liberté (art. D212-47)](#171)
-            - [Sous-paragraphe 2 : Des établissements militaires d'incarcération (art. D212-47)](#172)
-      - [TITRE II : PROCÉDURE DEVANT LES JURIDICTIONS DE JUGEMENT (art. D221-1 à D222-4)](#173)
-        - [Chapitre Ier : En temps de paix et hors du territoire de la République (art. D221-1 à D221-2)](#174)
-          - [Section unique : De la délivrance des copies et extraits de jugement (art. D221-1 à D221-2)](#175)
-        - [Chapitre II : En temps de guerre (art. D222-1 à D222-4)](#176)
-          - [Section unique : De la délivrance des copies et extraits de jugement (art. D222-1 à D222-4)](#177)
-      - [TITRE VI : DES PROCÉDURES D'EXÉCUTION (art. D269-1 à D269-23)](#178)
-        - [Chapitre IX : Des frais de justice (art. D269-1 à D269-23)](#179)
-          - [Section 1 : Des dépenses (art. D269-1 à D269-3)](#180)
-          - [Section 2 : Des frais de justice (art. D269-4 à D269-23)](#181)
-            - [Sous-section 1 : Tarif des frais de justice (art. D269-5 à D269-15)](#182)
-            - [Sous-section 2 :Paiements et recouvrement des frais de justice (art. D269-16 à D269-23)](#183)
-              - [Paragraphe 1 : Paiement (art. D269-16 à D269-19)](#184)
-              - [Paragraphe 2 : Recouvrement (art. D269-20 à D269-23)](#185)
+  - [Partie réglementaire : Décrets en Conseil d'Etat (art. R212-1 à R212-46)](#137)
+    - [LIVRE II : PROCÉDURE PÉNALE MILITAIRE (art. R212-1 à R212-46)](#138)
+      - [TITRE Ier : DE L'EXERCICE DE L'ACTION PUBLIQUE ET DE L'INSTRUCTION (art. R212-1 à R212-46)](#139)
+        - [Chapitre II : En temps de guerre (art. R212-1 à R212-46)](#140)
+          - [Section 6 : Des juridictions d'instruction (art. R212-1 à R212-46)](#141)
+            - [Sous-section 1 : De l'instruction préparatoire. (art. R212-1 à R212-7)](#142)
+            - [Sous-section 2 : Du contrôle judiciaire, de la détention provisoire et de la liberté (art. R212-8 à R212-46)](#143)
+              - [Paragraphe 1 : Du contrôle judiciaire (art. R212-8 à R212-27)](#144)
+                - [Sous-paragraphe 1 : Des autorités ou personnes contribuant au contrôle judiciaire. (art. R212-8 à R212-10)](#145)
+                - [Sous-paragraphe 2 : Des modalités d'exécution du contrôle judiciaire. (art. R212-11 à R212-18)](#146)
+                - [Sous-paragraphe 3 : Du cautionnement. (art. R212-19 à R212-27)](#147)
+              - [Paragraphe 2 : De la détention provisoire et de la liberté (art. R212-28 à R212-46)](#148)
+                - [Sous-paragraphe 1 : De l'indemnisation à raison d'une détention provisoire. (art. R212-28 à R212-46)](#149)
+  - [Partie réglementaire : Décrets simples (art. D112-1 à D269-23)](#150)
+    - [LIVRE Ier : ORGANISATION ET COMPETENCE DE LA JUSTICE MILITAIRE (art. D112-1 à D112-24)](#151)
+      - [TITRE Ier : ORGANISATION (art. D112-1 à D112-24)](#152)
+        - [Chapitre II : Des juridictions des forces armées en temps de guerre (art. D112-1 à D112-24)](#153)
+          - [Section 1 : Statuts particuliers des corps spéciaux et d'assimilés spéciaux (art. D112-1 à D112-21)](#154)
+            - [Sous-section 1 : Le corps spécial des magistrats (art. D112-1 à D112-11)](#155)
+            - [Sous-section 2 : Du cadre des officiers défenseurs assimilés spéciaux (art. D112-12 à D112-21)](#156)
+          - [Section 2 : Du chef du parquet et du chef du service du greffe (art. D112-22 à D112-23)](#157)
+            - [Sous-section 1 : Du chef du parquet (art. D112-22)](#158)
+            - [Sous-section 2 : Du chef du service du greffe (art. D112-23)](#159)
+          - [Section 3 :  Serment (art. D112-24)](#160)
+    - [LIVRE II : PROCÉDURE PÉNALE MILITAIRE (art. D211-1 à D269-23)](#161)
+      - [TITRE Ier : DE L'EXERCICE DE L'ACTION PUBLIQUE ET DE L'INSTRUCTION (art. D211-1 à D212-47)](#162)
+        - [Chapitre Ier : En temps de paix et hors du territoire de la République (art. D211-1 à D211-14)](#163)
+        - [Chapitre II : En temps de guerre (art. D212-47)](#164)
+          - [Paragraphe 2 : De la détention provisoire et de la liberté (art. D212-47)](#165)
+            - [Sous-paragraphe 2 : Des établissements militaires d'incarcération (art. D212-47)](#166)
+      - [TITRE II : PROCÉDURE DEVANT LES JURIDICTIONS DE JUGEMENT (art. D222-1 à D222-5)](#167)
+        - [Chapitre II : En temps de guerre (art. D222-1 à D222-5)](#168)
+          - [Section unique : De la délivrance des copies et extraits de jugement (art. D222-1 à D222-5)](#169)
+      - [TITRE VI : DES PROCÉDURES D'EXÉCUTION (art. D269-1 à D269-23)](#170)
+        - [Chapitre IX : Des frais de justice (art. D269-1 à D269-23)](#171)
+          - [Section 1 : Des dépenses (art. D269-1 à D269-3)](#172)
+          - [Section 2 : Des frais de justice (art. D269-4 à D269-23)](#173)
+            - [Sous-section 1 : Tarif des frais de justice (art. D269-5 à D269-15)](#174)
+            - [Sous-section 2 :Paiements et recouvrement des frais de justice (art. D269-16 à D269-23)](#175)
+              - [Paragraphe 1 : Paiement (art. D269-16 à D269-19)](#176)
+              - [Paragraphe 2 : Recouvrement (art. D269-20 à D269-23)](#177)
 # Partie législative<a id=1></a>
 
 ## TITRE PRÉLIMINAIRE.<a id=2></a>
@@ -19360,36 +19352,15 @@ _Cite_:
 
 # Partie réglementaire : Décrets en Conseil d'Etat<a id=137></a>
 
-## LIVRE Ier : ORGANISATION ET COMPÉTENCE DE LA JUSTICE MILITAIRE<a id=138></a>
+## LIVRE II : PROCÉDURE PÉNALE MILITAIRE<a id=138></a>
 
-### TITRE Ier : ORGANISATION<a id=139></a>
+### TITRE Ier : DE L'EXERCICE DE L'ACTION PUBLIQUE ET DE L'INSTRUCTION<a id=139></a>
 
-#### Chapitre Ier : Du siège du tribunal aux armées en temps de paix et hors du territoire de la République.<a id=140></a>
+#### Chapitre II : En temps de guerre<a id=140></a>
 
-###### Article R111-1
+##### Section 6 : Des juridictions d'instruction<a id=141></a>
 
-Le tribunal aux armées siège à Paris. Il est dénommé tribunal aux armées de Paris.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2007-759 2007-05-10 JORF 11 mai 2007
-
-_Abrogé par_:
-
-  - Décret n°2014-748 du 30 juin 2014 - art. 1
-
-
-## LIVRE II : PROCÉDURE PÉNALE MILITAIRE<a id=141></a>
-
-### TITRE Ier : DE L'EXERCICE DE L'ACTION PUBLIQUE ET DE L'INSTRUCTION<a id=142></a>
-
-#### Chapitre II : En temps de guerre<a id=143></a>
-
-##### Section 6 : Des juridictions d'instruction<a id=144></a>
-
-##### Sous-section 1 : De l'instruction préparatoire.<a id=145></a>
+##### Sous-section 1 : De l'instruction préparatoire.<a id=142></a>
 
 ###### Article R212-1
 
@@ -19545,11 +19516,11 @@ _Cite_:
   - Code de justice militaire R212-3, R212-4
 
 
-##### Sous-section 2 : Du contrôle judiciaire, de la détention provisoire et de la liberté<a id=146></a>
+##### Sous-section 2 : Du contrôle judiciaire, de la détention provisoire et de la liberté<a id=143></a>
 
-##### Paragraphe 1 : Du contrôle judiciaire<a id=147></a>
+##### Paragraphe 1 : Du contrôle judiciaire<a id=144></a>
 
-##### Sous-paragraphe 1 : Des autorités ou personnes contribuant au contrôle judiciaire.<a id=148></a>
+##### Sous-paragraphe 1 : Des autorités ou personnes contribuant au contrôle judiciaire.<a id=145></a>
 
 ###### Article R212-8
 
@@ -19610,7 +19581,7 @@ _Cite_:
   - Code de justice militaire. - art. L212-146 (V)
 
 
-##### Sous-paragraphe 2 : Des modalités d'exécution du contrôle judiciaire.<a id=149></a>
+##### Sous-paragraphe 2 : Des modalités d'exécution du contrôle judiciaire.<a id=146></a>
 
 ###### Article R212-11
 
@@ -19745,7 +19716,7 @@ _Cite_:
   - Code de justice militaire. - art. L212-146 (V)
 
 
-##### Sous-paragraphe 3 : Du cautionnement.<a id=150></a>
+##### Sous-paragraphe 3 : Du cautionnement.<a id=147></a>
 
 ###### Article R212-19
 
@@ -19898,9 +19869,9 @@ _Cite_:
   - Code de justice militaire. - art. L212-153 (V)
 
 
-##### Paragraphe 2 : De la détention provisoire et de la liberté<a id=151></a>
+##### Paragraphe 2 : De la détention provisoire et de la liberté<a id=148></a>
 
-##### Sous-paragraphe 1 : De l'indemnisation à raison d'une détention provisoire.<a id=152></a>
+##### Sous-paragraphe 1 : De l'indemnisation à raison d'une détention provisoire.<a id=149></a>
 
 ###### Article R212-28
 
@@ -20241,147 +20212,17 @@ _Codifié par_:
   - Décret n°2007-759 2007-05-10 JORF 11 mai 2007
 
 
-# Partie réglementaire : Décrets simples<a id=153></a>
+# Partie réglementaire : Décrets simples<a id=150></a>
 
-## LIVRE Ier : ORGANISATION ET COMPETENCE DE LA JUSTICE MILITAIRE<a id=154></a>
+## LIVRE Ier : ORGANISATION ET COMPETENCE DE LA JUSTICE MILITAIRE<a id=151></a>
 
-### TITRE Ier : ORGANISATION<a id=155></a>
+### TITRE Ier : ORGANISATION<a id=152></a>
 
-#### Chapitre Ier : Du tribunal aux armées<a id=156></a>
+#### Chapitre II : Des juridictions des forces armées en temps de guerre<a id=153></a>
 
-##### Section 1 : Etablissement<a id=157></a>
+##### Section 1 : Statuts particuliers des corps spéciaux et d'assimilés spéciaux<a id=154></a>
 
-###### Article D111-2
-
-Le tribunal aux armées de Paris comprend deux chambres.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-691 du 10 juillet 2008 - art.
-
-_Abrogé par_:
-
-  - Décret n°2014-749 du 30 juin 2014 - art. 1
-
-
-###### Article D111-3
-
-Les attributions de la chambre de l'instruction du tribunal aux armées de Paris sont exercées par la chambre de l'instruction
-de la cour d'appel de Paris.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-691 du 10 juillet 2008 - art.
-
-_Abrogé par_:
-
-  - Décret n°2014-749 du 30 juin 2014 - art. 1
-
-
-##### Section 2 : Personnels<a id=158></a>
-
-##### Sous-section 1 : Du chef du parquet<a id=159></a>
-
-###### Article D111-4
-
-Le chef du parquet est le chef de l'administration de la juridiction des forces armées à laquelle il est affecté. Responsable
-du fonctionnement de celle-ci, il exerce son autorité sur le personnel du greffe et assure sous le contrôle du ministère de
-la défense la gestion des dépenses de fonctionnement courant de la juridiction. Dans le cadre de ces attributions, il vise
-les pièces administratives, les expéditions et les extraits délivrés aux requérants, procède ou fait procéder à toutes
-vérifications d'écriture et au recensement du matériel. 
-
-En cas d'absence, ses attributions sont dévolues au magistrat affecté au service du parquet ou de l'instruction le plus
-ancien dans le grade le plus élevé.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-691 du 10 juillet 2008 - art.
-
-_Abrogé par_:
-
-  - Décret n°2014-749 du 30 juin 2014 - art. 1
-
-_Cité par_:
-
-  - Code de justice militaire. - art. D112-22 (V)
-
-
-##### Sous-section 2 : Du chef du service du greffe<a id=160></a>
-
-###### Article D111-5
-
-L'officier greffier, chef du service du greffe, est chargé de la gestion administrative de la juridiction des forces armées. 
-
-Il tient la comptabilité des opérations de recettes et de dépenses dont il est chargé par le code de procédure pénale, le
-code de justice militaire, les lois et règlements dans la forme prévue pour les régies d'avances et les régies de recettes de
-l'Etat. 
-
-En qualité de régisseur d'avances et de recettes, il dispose d'une caisse, d'un compte de dépôts de fonds au Trésor. Pour
-toutes les opérations qu'il effectue en cette qualité, il est tenu aux garanties et encourt les responsabilités prévues par
-le décret n° 66-850 du 15 novembre 1966 relatif à la responsabilité personnelle et pécuniaire des régisseurs. 
-
-Il gère le matériel appartenant à l'Etat mis à la disposition de la juridiction. 
-
-Il fait tenir les registres, catalogues, pièces administratives servant à la justification des recettes et des dépenses, à
-l'inventaire des matériels et des ouvrages, au classement des archives, à l'enregistrement des appels, référés, requêtes et
-pourvois en cassation, à la transcription des jugements et ordonnances de non-lieu, incompétence et dessaisissement, ainsi
-qu'à la constatation des entrées et sorties des pièces à conviction. 
-
-Les surcharges, interlignes et grattages sont interdits. Les ratures et les renvois sont approuvés par le greffier. 
-
-Il fait établir et certifie conformes aux originaux les expéditions et extraits de pièces. Il les délivre, après visa du
-commissaire du Gouvernement, lorsque leur remise a été autorisée. Les copies ne sont ni visées ni certifiées conformes. 
-
-En cas d'absence ou empêchement de l'officier greffier, ses attributions, en matière de gestion de la régie d'avances et de
-la régie de recettes, peuvent être confiées à l'officier greffier adjoint ou à l'un des commis greffiers placés sous ses
-ordres, désigné par le chef du parquet avec l'agrément de l'officier greffier.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°66-850 du 15 novembre 1966
-
-_Créé par_:
-
-  - Décret n°2008-691 du 10 juillet 2008 - art.
-
-_Abrogé par_:
-
-  - Décret n°2014-749 du 30 juin 2014 - art. 1
-
-
-##### Section 3 : Serment<a id=161></a>
-
-###### Article D111-6
-
-Les officiers et sous-officiers greffiers et les sous-officiers huissiers-appariteurs, lors de leur nomination dans le corps
-et avant d'entrer en fonctions, prêtent, à la première audience de la juridiction des forces armées à laquelle ils sont
-affectés, le serment suivant :  Je jure de bien et loyalement remplir mes fonctions et d'observer tous les devoirs qu'elles
-m'imposent.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-691 du 10 juillet 2008 - art.
-
-_Abrogé par_:
-
-  - Décret n°2014-749 du 30 juin 2014 - art. 1
-
-
-#### Chapitre II : Des juridictions des forces armées en temps de guerre<a id=162></a>
-
-##### Section 1 : Statuts particuliers des corps spéciaux et d'assimilés spéciaux<a id=163></a>
-
-##### Sous-section 1 : Le corps spécial des magistrats<a id=164></a>
+##### Sous-section 1 : Le corps spécial des magistrats<a id=155></a>
 
 ###### Article D112-1
 
@@ -20593,7 +20434,7 @@ _Créé par_:
   - Décret n°2008-691 du 10 juillet 2008 - art.
 
 
-##### Sous-section 2 : Du cadre des officiers défenseurs assimilés spéciaux<a id=165></a>
+##### Sous-section 2 : Du cadre des officiers défenseurs assimilés spéciaux<a id=156></a>
 
 ###### Article D112-12
 
@@ -20771,29 +20612,84 @@ _Créé par_:
   - Décret n°2008-691 du 10 juillet 2008 - art.
 
 
-##### Section 2 : Du chef du parquet et du chef du service du greffe<a id=166></a>
+##### Section 2 : Du chef du parquet et du chef du service du greffe<a id=157></a>
+
+##### Sous-section 1 : Du chef du parquet<a id=158></a>
 
 ###### Article D112-22
 
-Les dispositions des articles D. 111-4 et D. 111-5 sont applicables respectivement au chef du parquet et au chef du service
-du greffe de la juridiction des forces armées du temps de guerre.
+Le chef du parquet est le chef de l'administration de la juridiction des forces armées à laquelle il est affecté. Responsable
+du fonctionnement de celle-ci, il exerce son autorité sur le personnel du greffe et assure sous le contrôle du ministère de
+la défense la gestion des dépenses de fonctionnement courant de la juridiction. Dans le cadre de ces attributions, il vise
+les pièces administratives, les expéditions et les extraits délivrés aux requérants, et procède ou fait procéder à toutes
+vérifications d'écriture et au recensement du matériel. 
+
+En cas d'absence, ses attributions sont dévolues au magistrat affecté au service du parquet ou de l'instruction le plus
+ancien dans le grade le plus élevé.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2014-749 du 30 juin 2014 - art. 2
+
+
+##### Sous-section 2 : Du chef du service du greffe<a id=159></a>
+
+###### Article D112-23
+
+L'officier greffier, chef du service du greffe, est chargé de la gestion administrative de la juridiction des forces armées.
+
+Il tient la comptabilité des opérations de recettes et de dépenses dont il est chargé par le code de procédure pénale, le
+code de justice militaire, ainsi que les lois et règlements dans la forme prévue pour les régies d'avances et les régies de
+recettes de l'Etat.
+
+En qualité de régisseur d'avances et de recettes, il dispose d'une caisse et d'un compte de dépôts de fonds au Trésor.
+
+Il gère le matériel appartenant à l'Etat mis à la disposition de la juridiction.
+
+Il fait tenir les registres, catalogues et pièces administratives servant à la justification des recettes et des dépenses, à
+l'inventaire des matériels et des ouvrages, au classement des archives, à l'enregistrement des appels, référés, requêtes et
+pourvois en cassation, à la transcription des jugements et ordonnances de non-lieu, incompétence et dessaisissement, ainsi
+qu'à la constatation des entrées et sorties des pièces à conviction.
+
+Les surcharges, interlignes et grattages sont interdits. Les ratures et les renvois sont approuvés par le greffier.
+
+Il fait établir et certifie conformes aux originaux les expéditions et extraits de pièces. Il les délivre, après visa du
+commissaire du Gouvernement, lorsque leur remise a été autorisée. Les copies ne sont ni visées ni certifiées conformes.
+
+En cas d'absence ou d'empêchement de l'officier greffier, ses attributions en matière de gestion de la régie d'avances et de
+la régie de recettes peuvent être confiées à l'officier greffier adjoint ou à l'un des commis greffiers placés sous ses
+ordres, désigné par le chef du parquet avec l'agrément de l'officier greffier.
 
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Décret n°2008-691 du 10 juillet 2008 - art.
-
-_Cite_:
-
-  - Code de justice militaire. - art. D111-4
+  - Décret n°2014-749 du 30 juin 2014 - art. 2
 
 
-## LIVRE II : PROCÉDURE PÉNALE MILITAIRE<a id=167></a>
+##### Section 3 :  Serment<a id=160></a>
 
-### TITRE Ier : DE L'EXERCICE DE L'ACTION PUBLIQUE ET DE L'INSTRUCTION<a id=168></a>
+###### Article D112-24
 
-#### Chapitre Ier : En temps de paix et hors du territoire de la République<a id=169></a>
+Lors  de leur nomination dans le corps et avant d'entrer en fonctions, les  officiers et sous-officiers greffiers et les
+sous-officiers  huissiers-appariteurs prêtent, à la première audience de la juridiction  des forces armées à laquelle ils
+sont affectés, le serment suivant : “Je jure de bien et loyalement remplir mes fonctions et d'observer tous les devoirs
+qu'elles m'imposent.”
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-749 du 30 juin 2014 - art. 3
+
+
+## LIVRE II : PROCÉDURE PÉNALE MILITAIRE<a id=161></a>
+
+### TITRE Ier : DE L'EXERCICE DE L'ACTION PUBLIQUE ET DE L'INSTRUCTION<a id=162></a>
+
+#### Chapitre Ier : En temps de paix et hors du territoire de la République<a id=163></a>
 
 ###### Article D211-1
 
@@ -21024,11 +20920,11 @@ _Créé par_:
   - Décret n°2008-691 du 10 juillet 2008 - art.
 
 
-#### Chapitre II : En temps de guerre<a id=170></a>
+#### Chapitre II : En temps de guerre<a id=164></a>
 
-##### Paragraphe 2 : De la détention provisoire et de la liberté<a id=171></a>
+##### Paragraphe 2 : De la détention provisoire et de la liberté<a id=165></a>
 
-##### Sous-paragraphe 2 : Des établissements militaires d'incarcération<a id=172></a>
+##### Sous-paragraphe 2 : Des établissements militaires d'incarcération<a id=166></a>
 
 ###### Article D212-47
 
@@ -21047,60 +20943,11 @@ _Cite_:
   - Code de justice militaire. - art. L212-159
 
 
-### TITRE II : PROCÉDURE DEVANT LES JURIDICTIONS DE JUGEMENT<a id=173></a>
+### TITRE II : PROCÉDURE DEVANT LES JURIDICTIONS DE JUGEMENT<a id=167></a>
 
-#### Chapitre Ier : En temps de paix et hors du territoire de la République<a id=174></a>
+#### Chapitre II : En temps de guerre<a id=168></a>
 
-##### Section unique : De la délivrance des copies et extraits de jugement<a id=175></a>
-
-###### Article D221-1
-
-Les droits perçus à la diligence de l'officier greffier, à l'occasion de la délivrance des copies de pièces de procédure et
-extraits de jugement, sont versés périodiquement au Trésor et imputés au compte  Recettes accidentelles à différents titres »
-du budget de l'exercice courant.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-691 du 10 juillet 2008 - art.
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2014-749 du 30 juin 2014 - art. 4
-
-_Cité par_:
-
-  - Code de justice militaire. - art. D222-4 (V)
-
-_Nouveaux textes_:
-
-  - Code de justice militaire. - art. D222-4 (V)
-
-
-###### Article D221-2
-
-Les extraits, expéditions ou copies demandées par les parquets et les administrations pour le compte de l'Etat sont délivrés
-à titre gratuit.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-691 du 10 juillet 2008 - art.
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2014-749 du 30 juin 2014 - art. 4
-
-_Nouveaux textes_:
-
-  - Code de justice militaire. - art. D222-5 (V)
-
-
-#### Chapitre II : En temps de guerre<a id=176></a>
-
-##### Section unique : De la délivrance des copies et extraits de jugement<a id=177></a>
+##### Section unique : De la délivrance des copies et extraits de jugement<a id=169></a>
 
 ###### Article D222-1
 
@@ -21177,25 +21024,46 @@ _Cite_:
 
 ###### Article D222-4
 
-Les dispositions des articles D. 221-1 et D. 221-2 sont applicables par les juridictions des forces armées du temps de
-guerre.
+Les droits perçus à la diligence de l'officier greffier, à l'occasion de la délivrance des copies de pièces de procédure et
+extraits de jugement, sont versés périodiquement au Trésor et imputés au compte  Recettes accidentelles à différents titres »
+du budget de l'exercice courant.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2014-749 du 30 juin 2014 - art. 4
+
+_Cite_:
+
+  - Code de justice militaire. - art. D221-1
+
+_Anciens textes_:
+
+  - Code de justice militaire. - art. D221-1 (T)
+
+
+###### Article D222-5
+
+Les extraits, expéditions ou copies demandées par les parquets et les administrations pour le compte de l'Etat sont délivrés
+à titre gratuit.
 
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Décret n°2008-691 du 10 juillet 2008 - art.
+  - Décret n°2014-749 du 30 juin 2014 - art. 4
 
-_Cite_:
+_Anciens textes_:
 
-  - Code de justice militaire. - art. D221-1 (T)
+  - Code de justice militaire. - art. D221-2 (T)
 
 
-### TITRE VI : DES PROCÉDURES D'EXÉCUTION<a id=178></a>
+### TITRE VI : DES PROCÉDURES D'EXÉCUTION<a id=170></a>
 
-#### Chapitre IX : Des frais de justice<a id=179></a>
+#### Chapitre IX : Des frais de justice<a id=171></a>
 
-##### Section 1 : Des dépenses<a id=180></a>
+##### Section 1 : Des dépenses<a id=172></a>
 
 ###### Article D269-1
 
@@ -21265,7 +21133,7 @@ _Créé par_:
   - Décret n°2008-691 du 10 juillet 2008 - art.
 
 
-##### Section 2 : Des frais de justice<a id=181></a>
+##### Section 2 : Des frais de justice<a id=173></a>
 
 ###### Article D269-4
 
@@ -21287,20 +21155,18 @@ a) Experts et traducteurs-interprètes ;
 
 b) Personnes chargées des enquêtes sociales ou de personnalité ; 
 
-c) Personnes contribuant au contrôle judiciaire ; 
+c) Personnes contribuant au contrôle judiciaire. 
 
-d) Délégués du procureur de la République chargés d'une des missions prévues par les 1° à 4° de l'article 41-1 du code de
-procédure pénale ou intervenant au cours d'une composition pénale. 
-
-5° Les indemnités qui peuvent être accordées aux témoins civils et militaires, aux jurés par application des articles R. 123
-à R. 146 du code de procédure pénale et aux parties civiles par application des articles 375-1 et 422 du même code. 
+5° Les indemnités qui peuvent être accordées aux témoins civils et militaires par application des articles R. 123 à R. 133,
+R. 135 et R. 138 du code de procédure pénale ainsi qu'aux parties civiles par application de l'article L. 222-11 du présent
+code. 
 
 6° Les frais de saisie ou de mise sous séquestre ou en fourrière, ainsi que les frais en matière de scellés. 
 
 7° Les frais d'enquête sociale et d'expertise engagés en matière d'exécution ou d'application des peines et en matière de
 grâces. 
 
-8° Les émoluments et indemnités alloués aux huissiers de justice. 
+8° (Abrogé) 
 
 9° Les frais de capture et d'arrestation. 
 
@@ -21335,7 +21201,7 @@ demande des autorités judiciaires par les organismes agréés mentionnés à l'
 20° Les frais des administrateurs ad hoc lorsqu'ils figurent sur la liste prévue à l'article R. 53 du code de procédure
 pénale ou qu'il a été fait application des dispositions de l'article R. 53-6 du même code. 
 
-21° Les indemnités accordées en application de l'article 800-2 du code de procédure pénale. 
+21° (Abrogé) 
 
 22° Les frais correspondant à la fourniture des données conservées en application du II de l'article L. 34-1 du code des
 postes et des communications électroniques. 
@@ -21344,29 +21210,27 @@ postes et des communications électroniques.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Décret n°2014-749 du 30 juin 2014 - art. 5
+
 _Cite_:
 
-  - Loi n°90-1170 du 29 décembre 1990 (V)
-  - Code des postes et des communications électroni... - art. L34-1 (V)
-  - CODE DE PROCEDURE PENALE - art. 149 (V)
-  - CODE DE PROCEDURE PENALE - art. 375-1 (V)
-  - CODE DE PROCEDURE PENALE - art. 41-1 (V)
-  - CODE DE PROCEDURE PENALE - art. 800-2 (V)
-  - CODE DE PROCEDURE PENALE - art. R123 (V)
-  - CODE DE PROCEDURE PENALE - art. R53 (V)
-  - CODE DE PROCEDURE PENALE - art. R53-6 (V)
-  - Code de justice militaire. - art. L212-173 (V)
-
-_Créé par_:
-
-  - Décret n°2008-691 du 10 juillet 2008 - art.
+  - Code des postes et des communications électroniques - art. L34-1
+  - Code de procédure pénale - art. 149
+  - Code de procédure pénale - art. R123
+  - Code de procédure pénale - art. R135
+  - Code de procédure pénale - art. R53
+  - Code de procédure pénale - art. R53-6
+  - Code de justice militaire. - art. L212-173
+  - Code de justice militaire. - art. L222-11
 
 _Cité par_:
 
   - Code de justice militaire. - art. D269-6 (V)
 
 
-##### Sous-section 1 : Tarif des frais de justice<a id=182></a>
+##### Sous-section 1 : Tarif des frais de justice<a id=174></a>
 
 ###### Article D269-5
 
@@ -21493,42 +21357,6 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. R135 (V)
 
 
-###### Article D269-10
-
-Les dispositions des articles R. 139 à R. 145 du code de procédure pénale sont applicables aux membres du jury criminel du
-tribunal aux armées. 
-
-Lorsqu'un juré se trouve dans l'impossibilité de faire l'avance de ses frais de voyage pour se rendre au lieu de convocation,
-il se présente au commandant d'armes de la place la plus proche qui, sur le vu de la notification et après vérification de
-son identité, détermine l'avance qui lui est indispensable pour déférer à sa convocation. 
-
-Le montant de l'avance peut être égal au prix d'un billet aller et retour quand le voyage s'effectue par un service de
-transport qui délivre des billets d'aller et de retour payables intégralement au moment du départ ; dans les autres cas, il
-ne doit pas excéder la moitié du montant de l'indemnité de transport auquel le juré peut prétendre. Le montant alloué est
-mentionné en marge ou au bas de la copie de la notification délivrée au juré. 
-
-Le commandant d'armes adresse ensuite à l'un des corps de la place une réquisition pour l'inviter à payer cette somme au
-juré.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-691 du 10 juillet 2008 - art.
-
-_Abrogé par_:
-
-  - Décret n°2014-749 du 30 juin 2014 - art. 5
-
-_Cite_:
-
-  - Code de procédure pénale - art. R139
-
-_Cité par_:
-
-  - Code de justice militaire. - art. D269-18 (V)
-
-
 ###### Article D269-11
 
 Les dispositions des articles R. 147, R. 148 et R. 149 du code de procédure pénale sont applicables devant les juridictions
@@ -21623,9 +21451,9 @@ _Cite_:
   - CODE GENERAL DES IMPOTS, CGI. - art. 1018 A (V)
 
 
-##### Sous-section 2 :Paiements et recouvrement des frais de justice<a id=183></a>
+##### Sous-section 2 :Paiements et recouvrement des frais de justice<a id=175></a>
 
-##### Paragraphe 1 : Paiement<a id=184></a>
+##### Paragraphe 1 : Paiement<a id=176></a>
 
 ###### Article D269-16
 
@@ -21666,14 +21494,14 @@ _Cité par_:
 
 ###### Article D269-18
 
-Les frais visés aux articles D. 269-7, D. 269-8, D. 269-9, premier alinéa, D. 269-10, premier alinéa, D. 269-11 et D. 269-12,
-premier alinéa, peuvent être payés sur les fonds des régies d'avances instituées près les juridictions des forces armées.
+Les frais visés aux articles D. 269-7, D. 269-8, D. 269-9, premier alinéa,         D. 269-11 et D. 269-12, premier alinéa,
+peuvent être payés sur les fonds des régies d'avances instituées près les juridictions des forces armées.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-691 du 10 juillet 2008 - art.
+  - Décret n°2014-749 du 30 juin 2014 - art. 5
 
 _Cite_:
 
@@ -21696,7 +21524,7 @@ _Cite_:
   - Code de justice militaire. - art. D269-13
 
 
-##### Paragraphe 2 : Recouvrement<a id=185></a>
+##### Paragraphe 2 : Recouvrement<a id=177></a>
 
 ###### Article D269-20
 
