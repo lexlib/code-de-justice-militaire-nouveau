@@ -1,5 +1,5 @@
 # Code de justice militaire (nouveau)  
-Version Consolidée au 2017-03-01
+Version Consolidée au 2020-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L424-3)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L4)](#2)
@@ -603,15 +603,13 @@ _Codifié par_:
 ###### Article L112-9
 
 Pour le jugement des militaires jusqu'au grade de colonel, capitaine de vaisseau ou assimilés, inclusivement, l'assesseur est
-choisi parmi les magistrats du siège de l'un des tribunaux de grande ou de première instance dont le ressort coïncide, en
+choisi parmi les magistrats du siège de l'un des tribunaux judiciaires ou de première instance dont le ressort coïncide, en
 totalité ou en partie, avec celui du tribunal territorial des forces armées.
 
 **Nota:**
 
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -621,8 +619,12 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
+  - Ordonnance n°2006-637 du 1 juin 2006
+  - Loi n°2007-289 du 5 mars 2007 - art. 1
+
+_Modifié par_:
+
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 12
 
 
 ###### Article L112-10
@@ -948,22 +950,20 @@ _Codifié par_:
 ###### Article L112-20
 
 La chambre de l'instruction dont l'établissement est prévu à l'article L. 112-1 est composée de trois membres : un président,
-un magistrat assesseur et un juge militaire ayant grade ou rang d'officier supérieur au moins. 
+un magistrat assesseur et un juge militaire ayant grade ou rang d'officier supérieur au moins.
 
 La présidence est assurée par un magistrat du siège de la cour d'appel ou du tribunal supérieur d'appel dans le ressort
 duquel le tribunal territorial des forces armées a son siège ; les fonctions d'assesseur sont remplies par un conseiller de
-la même cour ou par un juge du même tribunal supérieur d'appel ou par un magistrat du siège d'un tribunal de grande ou de
-première instance ; le juge militaire est choisi parmi les officiers ayant vocation pour siéger. 
+la même cour ou par un juge du même tribunal supérieur d'appel ou par un magistrat du siège d'un tribunal judiciaire ou de
+première instance ; le juge militaire est choisi parmi les officiers ayant vocation pour siéger.
 
 Les fonctions de commissaire du Gouvernement sont assurées par le commissaire du Gouvernement près le tribunal territorial
 des forces armées, celles du greffe par un greffier du même tribunal.
 
 **Nota:**
 
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -973,12 +973,16 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
+  - Ordonnance n°2006-637 du 1 juin 2006
+  - Loi n°2007-289 du 5 mars 2007 - art. 1
+
+_Modifié par_:
+
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 12
 
 _Cite_:
 
-  - Code de justice militaire. - art. L112-1 (V)
+  - Code de justice militaire. - art. L112-1
 
 _Cité par_:
 
@@ -2260,11 +2264,15 @@ _Cite_:
 Un arrêté du ministre de la défense désigne les autorités militaires habilitées, sous son autorité, à dénoncer les
 infractions ou à donner un avis sur les poursuites éventuelles. 
 
-Le procureur de la République près le tribunal de grande instance de Paris reçoit les plaintes et les dénonciations. Il
-dirige l'activité des officiers de police judiciaire des forces armées conformément aux dispositions du code de procédure
-pénale. 
+Le procureur de la République près le   tribunal judiciaire de Paris reçoit les plaintes et les dénonciations. Il dirige
+l'activité des officiers de police judiciaire des forces armées conformément aux dispositions du code de procédure pénale. 
 
 Les dispositions du second alinéa de l'article 40 du code de procédure pénale sont applicables.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -2279,7 +2287,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cite_:
 
@@ -2288,7 +2296,7 @@ _Cite_:
 _Cité par_:
 
   - Code de justice militaire. - art. D211-1 (V)
-  - Code de justice militaire. - art. L211-24 (V)
+  - Code de justice militaire. - art. L211-24 (VD)
 
 
 ###### Article L211-2
@@ -2344,17 +2352,22 @@ et par les autres dispositions de ce code auxquelles se réfère cet article.
 
 Les dispositions des articles 55 et 61 du même code sont également applicables. 
 
-Ils sont tenus, à l'égard du procureur de la République près le tribunal de grande instance de Paris, des obligations prévues
-par l'article 19 du même code. 
+Ils sont tenus, à l'égard du procureur de la République près le   tribunal judiciaire de Paris, des obligations prévues par
+l'article 19 du même code. 
 
 Ils ont compétence dans les limites territoriales où ils exercent leurs fonctions habituelles. 
 
-En cas d'urgence, soit sur instructions du procureur de la République près le tribunal de grande instance de Paris au cours
-d'une enquête préliminaire ou d'une enquête de flagrance, soit sur commission rogatoire expresse du juge d'instruction, ils
-peuvent procéder aux opérations prescrites par ces autorités en tous lieux qui leur sont désignés. 
+En cas d'urgence, soit sur instructions du procureur de la République près le   tribunal judiciaire de Paris au cours d'une
+enquête préliminaire ou d'une enquête de flagrance, soit sur commission rogatoire expresse du juge d'instruction, ils peuvent
+procéder aux opérations prescrites par ces autorités en tous lieux qui leur sont désignés. 
 
 Les officiers de police judiciaire des forces armées mentionnés au 2° ci-dessus ont compétence dans les limites territoriales
 où ils exercent les missions particulières qui leur sont dévolues par les lois ou les règlements.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -2369,15 +2382,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cite_:
 
-  - Code de procédure pénale - art. 16 (V)
-  - Code de procédure pénale - art. 17 (V)
-  - Code de procédure pénale - art. 19 (V)
-  - Code de procédure pénale - art. 55 (V)
-  - Code de procédure pénale - art. 61 (V)
+  - Code de procédure pénale - art. 16
+  - Code de procédure pénale - art. 17
+  - Code de procédure pénale - art. 19
+  - Code de procédure pénale - art. 55
+  - Code de procédure pénale - art. 61
 
 _Cité par_:
 
@@ -2389,10 +2402,15 @@ _Cité par_:
 
 Les gendarmes qui ne sont pas officiers de police judiciaire des forces armées disposent des pouvoirs attribués aux agents de
 police judiciaire par l'article 20 du code de procédure pénale et peuvent, notamment, procéder à des enquêtes préliminaires
-soit d'office, soit sur instructions du procureur de la République près le tribunal de grande instance de Paris.
+soit d'office, soit sur instructions du procureur de la République près le   tribunal judiciaire de Paris. 
 
 Les militaires non assermentés qui sont appelés à servir dans les prévôtés secondent les officiers de police judiciaire des
 forces armées sous les ordres desquels ils sont placés et leur rendent compte des infractions dont ils ont connaissance.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -2407,7 +2425,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cite_:
 
@@ -2525,9 +2543,14 @@ _Cité par_:
 ###### Article L211-8
 
 Pour l'application des articles 63 à 64,77 à 78 et 154 du code de procédure pénale, le procureur de la République près le
-tribunal de grande instance de Paris ou le juge d'instruction de ce tribunal spécialisé en matière militaire peuvent, le cas
-échéant, déléguer leurs pouvoirs, respectivement, au procureur de la République ou au juge d'instruction du tribunal de
-grande instance dans le ressort duquel la garde à vue est mise en œuvre.
+tribunal judiciaire de Paris ou le juge d'instruction de ce tribunal spécialisé en matière militaire peuvent, le cas échéant,
+déléguer leurs pouvoirs, respectivement, au procureur de la République ou au juge d'instruction du   tribunal judiciaire dans
+le ressort duquel la garde à vue est mise en œuvre.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -2542,7 +2565,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cite_:
 
@@ -2583,10 +2606,15 @@ _Codifié par_:
 
 ###### Article L211-10
 
-S'il apparaît au procureur de la République près le tribunal de grande instance de Paris que la procédure d'enquête de police
+S'il apparaît au procureur de la République près le   tribunal judiciaire de Paris que la procédure d'enquête de police
 judiciaire dont il est saisi a trait à une affaire ne relevant pas de la juridiction spécialisée en matière militaire, il
 envoie les pièces au ministère public près la juridiction compétente et met, s'il y a lieu, la personne appréhendée à sa
 disposition.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -2601,7 +2629,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 
 ##### Section 3 : De l'action civile et de l'action publique.<a id=26></a>
@@ -2966,12 +2994,17 @@ _Cité par_:
 ###### Article L211-24
 
 Lorsque le juge d'instruction ou la chambre de l'instruction a rendu une décision de non-lieu, il appartient au ministre de
-la défense ou à l'autorité mentionnée à l'article L. 211-1 de dénoncer au procureur de la République près le tribunal de
-grande instance de Paris les charges nouvelles définies par l'article 189 du code de procédure pénale. 
+la défense ou à l'autorité mentionnée à l'article L. 211-1 de dénoncer au procureur de la République près le   tribunal
+judiciaire de Paris les charges nouvelles définies par l'article 189 du code de procédure pénale. 
 
-Si le procureur de la République près le tribunal de grande instance de Paris envisage, à défaut de dénonciation, de requérir
-la réouverture de l'information sur ces charges, il lui appartient de recueillir l'avis de l'autorité mentionnée au premier
+Si le procureur de la République près le   tribunal judiciaire de Paris envisage, à défaut de dénonciation, de requérir la
+réouverture de l'information sur ces charges, il lui appartient de recueillir l'avis de l'autorité mentionnée au premier
 alinéa. La dénonciation ou l'avis est classé au dossier de la procédure.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -2986,12 +3019,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cite_:
 
-  - Code de procédure pénale - art. 189 (V)
-  - Code de justice militaire. - art. L211-1 (V)
+  - Code de procédure pénale - art. 189
+  - Code de justice militaire. - art. L211-1 (VD)
 
 
 ##### Section 5 : De la défense<a id=31></a>
@@ -2999,18 +3032,23 @@ _Cite_:
 ###### Article L211-25
 
 Les personnes mentionnées au chapitre Ier du titre II du livre Ier peuvent faire assurer leur défense par un avocat ou, si
-l'éloignement y fait obstacle, par un militaire qu'elles choisissent sur une liste établie par le président du tribunal de
-grande instance de Paris.
+l'éloignement y fait obstacle, par un militaire qu'elles choisissent sur une liste établie par le président du   tribunal
+judiciaire de Paris.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cite_:
 
-  - Code de justice militaire. -  Chapitre Ier : En temps de paix et hors du terr... (V)
+  - Code de justice militaire.
 
 
 #### Chapitre II : En temps de guerre<a id=32></a>
@@ -4746,22 +4784,20 @@ _Cité par_:
 ###### Article L212-54
 
 Le juge d'instruction militaire peut requérir directement par commission rogatoire, aux fins de procéder aux actes
-d'instruction qu'il estime nécessaires, tout juge d'instruction, tout juge d'instance, ainsi que tous officiers de police
-judiciaire des forces armées ou officiers de police judiciaire civile, dans les lieux où chacun d'eux est territorialement
-compétent.
+d'instruction qu'il estime nécessaires, tout juge d'instruction, tout   juge du tribunal judiciaire, ainsi que tous officiers
+de police judiciaire des forces armées ou officiers de police judiciaire civile, dans les lieux où chacun d'eux est
+territorialement compétent. 
 
 La commission rogatoire indique la nature de l'infraction, objet des poursuites. Elle est datée et signée par le magistrat
-qui la délivre revêtue de son sceau.
+qui la délivre revêtue de son sceau. 
 
 Elle ne peut prescrire que des actes d'instruction se rattachant directement à la répression de l'infraction mentionnée aux
 poursuites.
 
 **Nota:**
 
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -4771,8 +4807,12 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
+  - Ordonnance n°2006-637 du 1 juin 2006
+  - Loi n°2007-289 du 5 mars 2007 - art. 1
+
+_Modifié par_:
+
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cité par_:
 
@@ -12724,31 +12764,29 @@ _Cite_:
 ###### Article L251-13
 
 Si le jugement n'a pas été notifié à personne, l'opposition est recevable jusqu'à l'expiration des délais de prescription de
-la peine.
+la peine. 
 
 Si le condamné se représente ou s'il est arrêté avant que la peine soit éteinte par prescription, le jugement intervenu doit
-lui être notifié sans délai.
+lui être notifié sans délai. 
 
 La notification doit, à peine de nullité, comporter mention qu'il peut, dans un délai de cinq jours, former opposition audit
 jugement par déclaration, soit lors de sa notification, soit au greffe de la juridiction qui a statué en appel, soit au
-greffe du tribunal de grande instance ou de première instance ou de la juridiction des forces armées la plus proche et que,
-ce délai expiré sans qu'il ait été formé opposition, le jugement est contradictoire et devient définitif à l'expiration des
-délais de pourvoi.
+greffe du   tribunal judiciaire ou de première instance ou de la juridiction des forces armées la plus proche et que, ce
+délai expiré sans qu'il ait été formé opposition, le jugement est contradictoire et devient définitif à l'expiration des
+délais de pourvoi. 
 
 Si le jugement par défaut porte condamnation à une peine criminelle et s'il ressort du procès-verbal de notification que le
 condamné n'a pas formé opposition audit jugement, le commissaire du Gouvernement doit entendre le condamné avant l'expiration
 du délai fixé à l'article L. 251-10 pour lui rappeler qu'il peut encore former opposition et que, si celle-ci est déclarée
-recevable, le jugement rendu par défaut est anéanti de plein droit dans les conditions prévues à l'article L. 251-16.
+recevable, le jugement rendu par défaut est anéanti de plein droit dans les conditions prévues à l'article L. 251-16. 
 
 Le commissaire du Gouvernement ou le procureur de la République compétents en raison du lieu où se trouve le condamné peuvent
 être délégués à cette fin.
 
 **Nota:**
 
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -12758,16 +12796,16 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
+  - Ordonnance n°2006-637 du 1 juin 2006
+  - Loi n°2007-289 du 5 mars 2007 - art. 1
 
 _Modifié par_:
 
-  - Loi n°2007-289 2007-03-05 art. 2 16°, 17° JORF 6 mars 2007 en vigueur le 12 mai 2007
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cite_:
 
-  - Code de justice militaire L251-10, L251-16
+  - Code de justice militaire
 
 
 ###### Article L251-14
@@ -13328,15 +13366,13 @@ _Cite_:
 Durant le séquestre, il peut être accordé des secours à la femme, aux enfants, aux ascendants du défaillant, s'ils sont dans
 le besoin.
 
-Il est statué par ordonnance du président du tribunal de grande ou de première instance du domicile du défaillant, après avis
-du directeur des domaines.
+Il est statué par ordonnance du président du tribunal judiciaire ou de première instance du domicile du défaillant, après
+avis du directeur des domaines.
 
 **Nota:**
 
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -13346,8 +13382,12 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
+  - Ordonnance n°2006-637 du 1 juin 2006
+  - Loi n°2007-289 du 5 mars 2007 - art. 1
+
+_Modifié par_:
+
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 12
 
 
 ###### Article L252-3
@@ -19591,35 +19631,44 @@ _Cite_:
 
 La personne physique ou morale qui désire être habilitée à procéder à des enquêtes de personnalité dans le ressort d'une
 juridiction des forces armées en fait la demande au juge d'instruction qui la transmet au président de la chambre de
-l'instruction.
+l'instruction. 
 
-La demande présentée par une association comporte notamment :
+La demande présentée par une association comporte notamment : 
 
 1° La copie du Journal officiel portant publication de la déclaration de l'association ou, en ce qui concerne les
-départements du Bas-Rhin, du Haut-Rhin ou de la Moselle, une copie de l'extrait du registre des associations du tribunal
-d'instance ;
+départements du Bas-Rhin, du Haut-Rhin ou de la Moselle, une copie de l'extrait du registre des associations du   tribunal
+judiciaire ; 
 
-2° Un exemplaire des statuts et, s'il y a lieu, du règlement intérieur ;
+2° Un exemplaire des statuts et, s'il y a lieu, du règlement intérieur ; 
 
-3° La liste des établissements de l'association avec indication de leur siège ;
+3° La liste des établissements de l'association avec indication de leur siège ; 
 
 4° Un exposé indiquant les conditions de fonctionnement de l'association et, le cas échéant, l'organisation et les conditions
-de fonctionnement des comités locaux, ainsi que leurs rapports avec l'association ;
+de fonctionnement des comités locaux, ainsi que leurs rapports avec l'association ; 
 
 5° La mention des nom, prénoms, date et lieu de naissance, nationalité, profession et domicile des membres du conseil
-d'administration et du bureau de l'association ainsi que, le cas échéant, ceux de ses représentants locaux ;
+d'administration et du bureau de l'association ainsi que, le cas échéant, ceux de ses représentants locaux ; 
 
 6° Les pièces financières qui doivent comprendre les comptes du dernier exercice, le budget de l'exercice courant et un bilan
-ou un état de l'actif mobilier et immobilier et du passif ;
+ou un état de l'actif mobilier et immobilier et du passif ; 
 
 7° La liste des personnes physiques qui, au sein de l'association, doivent accomplir les missions qui lui sont confiées, avec
 la mention des nom, prénoms, date et lieu de naissance, nationalité, profession et domicile de chacune d'entre elles.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2007-759 2007-05-10 JORF 11 mai 2007
+  - Décret n°2007-759 du 10 mai 2007
+
+_Modifié par_:
+
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cité par_:
 
