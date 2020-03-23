@@ -1,5 +1,5 @@
 # Code de justice militaire (nouveau)  
-Version Consolidée au 2020-01-01
+Version Consolidée au 2020-03-24
 ## Contenu: 
   - [Partie législative (art. L1 à L424-3)](#1)
     - [TITRE PRÉLIMINAIRE. (art. L1 à L4)](#2)
@@ -15273,8 +15273,7 @@ En cas de condamnation à l'emprisonnement ou à l'amende, la juridiction saisie
 dans les conditions prévues aux articles 132-29 à 132-57 du code pénal. 
 
 Il peut être fait application de ces dispositions à toute condamnation à l'emprisonnement pour crime ou délit de droit commun
-ou pour crime ou délit militaire, sous réserve, en ce qui concerne le sursis avec mise à l'épreuve, des dispositions
-suivantes : 
+ou pour crime ou délit militaire, sous réserve, en ce qui concerne le      sursis probatoire, des dispositions suivantes : 
 
 1° Le tribunal se prononce seulement sur le délai d'épreuve ; 
 
@@ -15285,6 +15284,14 @@ Sont soumis à ces obligations particulières ainsi qu'aux mesures de contrôle 
 leur condamnation, les personnes étrangères aux armées et justiciables des juridictions militaires et, dès leur retour dans
 la vie civile, les militaires et assimilés mentionnés aux articles L. 121-3 à L. 121-5, lorsque le délai d'épreuve qui leur a
 été imparti par le tribunal n'est pas expiré.
+
+**Nota:**
+
+Conformément au XIX de l’article 109 de la loi n° 2019-222 du 23 mars 2019, ces dispositions entrent en vigueur un an après
+la publication de la présente loi. Les peines de contrainte pénale prononcées avant cette date s’exécutent jusqu’à leur terme
+conformément aux dispositions applicables au jour de leur prononcé, sous la réserve que les attributions confiées en
+application de l’article 713-47 du code de procédure pénale au président du tribunal judiciaire ou au juge désigné par lui
+sont exercées par le juge de l’application des peines.
 
 **Liens relatifs à cet article**
 
@@ -15299,13 +15306,13 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
+  - Loi n°2019-222 du 23 mars 2019 - art. 81
 
 _Cite_:
 
-  - Code pénal - art. 132-29 (V)
-  - Code pénal - art. 132-44 (V)
-  - Code de justice militaire. - art. L121-3 (V)
+  - Code pénal - art. 132-29
+  - Code pénal - art. 132-44
+  - Code de justice militaire. - art. L121-3
 
 _Cité par_:
 
@@ -15315,19 +15322,20 @@ _Cité par_:
 
 ###### Article L265-2
 
-La condamnation pour un crime ou délit militaire :
+La condamnation pour un crime ou délit militaire : 
 
-1° Ne fait pas perdre au condamné le bénéfice du sursis ou du sursis avec mise à l'épreuve qui lui a été antérieurement
-accordé pour une infraction de droit commun ;
+1° Ne fait pas perdre au condamné le bénéfice du sursis ou du      sursis probatoire qui lui a été antérieurement accordé
+pour une infraction de droit commun ; 
 
-2° Ne met pas obstacle à l'octroi ultérieur du sursis ou du sursis avec mise à l'épreuve pour une infraction de droit commun.
+2° Ne met pas obstacle à l'octroi ultérieur du sursis ou du      sursis probatoire pour une infraction de droit commun.
 
 **Nota:**
 
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
+Conformément au XIX de l’article 109 de la loi n° 2019-222 du 23 mars 2019, ces dispositions entrent en vigueur un an après
+la publication de la présente loi. Les peines de contrainte pénale prononcées avant cette date s’exécutent jusqu’à leur terme
+conformément aux dispositions applicables au jour de leur prononcé, sous la réserve que les attributions confiées en
+application de l’article 713-47 du code de procédure pénale au président du tribunal judiciaire ou au juge désigné par lui
+sont exercées par le juge de l’application des peines.
 
 **Liens relatifs à cet article**
 
@@ -15337,8 +15345,12 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
+  - Ordonnance n°2006-637 du 1 juin 2006
+  - Loi n°2007-289 du 5 mars 2007 - art. 1
+
+_Modifié par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 81
 
 _Cité par_:
 
